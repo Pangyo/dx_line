@@ -1,0 +1,1616 @@
+Bottle v0.12.9 server starting up (using WSGIRefServer())...
+Listening on http://0.0.0.0:80/
+Hit Ctrl-C to quit.
+
+Traceback (most recent call last):
+  File "/home/ubuntu/apps/dx_line/agent.py", line 93, in <module>
+    main()
+  File "/home/ubuntu/apps/dx_line/agent.py", line 89, in main
+    run(host='0.0.0.0', port=80)
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 3117, in run
+    server.run(app)
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 2771, in run
+    srv = make_server(self.host, self.port, app, server_cls, handler_cls)
+  File "/usr/lib/python2.7/wsgiref/simple_server.py", line 144, in make_server
+    server = server_class((host, port), handler_class)
+  File "/usr/lib/python2.7/SocketServer.py", line 419, in __init__
+    self.server_bind()
+  File "/usr/lib/python2.7/wsgiref/simple_server.py", line 48, in server_bind
+    HTTPServer.server_bind(self)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 108, in server_bind
+    SocketServer.TCPServer.server_bind(self)
+  File "/usr/lib/python2.7/SocketServer.py", line 430, in server_bind
+    self.socket.bind(self.server_address)
+  File "/usr/lib/python2.7/socket.py", line 224, in meth
+    return getattr(self._sock,name)(*args)
+socket.error: [Errno 13] Permission denied
+ERROR:root:table "user" already exists
+Bottle v0.12.9 server starting up (using WSGIRefServer())...
+Listening on http://0.0.0.0:80/
+Hit Ctrl-C to quit.
+
+Traceback (most recent call last):
+  File "/home/ubuntu/apps/dx_line/agent.py", line 93, in <module>
+    main()
+  File "/home/ubuntu/apps/dx_line/agent.py", line 89, in main
+    run(host='0.0.0.0', port=80)
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 3117, in run
+    server.run(app)
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 2771, in run
+    srv = make_server(self.host, self.port, app, server_cls, handler_cls)
+  File "/usr/lib/python2.7/wsgiref/simple_server.py", line 144, in make_server
+    server = server_class((host, port), handler_class)
+  File "/usr/lib/python2.7/SocketServer.py", line 419, in __init__
+    self.server_bind()
+  File "/usr/lib/python2.7/wsgiref/simple_server.py", line 48, in server_bind
+    HTTPServer.server_bind(self)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 108, in server_bind
+    SocketServer.TCPServer.server_bind(self)
+  File "/usr/lib/python2.7/SocketServer.py", line 430, in server_bind
+    self.socket.bind(self.server_address)
+  File "/usr/lib/python2.7/socket.py", line 224, in meth
+    return getattr(self._sock,name)(*args)
+socket.error: [Errno 98] Address already in use
+ERROR:root:table "user" already exists
+Bottle v0.12.9 server starting up (using WSGIRefServer())...
+Listening on http://0.0.0.0:80/
+Hit Ctrl-C to quit.
+
+124.63.192.180 - - [15/Aug/2016 00:57:06] "GET /tweet HTTP/1.1" 500 800
+Signal handler called with signal 15
+ERROR:root:table "user" already exists
+Bottle v0.12.9 server starting up (using WSGIRefServer())...
+Listening on http://0.0.0.0:80/
+Hit Ctrl-C to quit.
+
+ERROR:root:table "user" already exists
+Bottle v0.12.9 server starting up (using WSGIRefServer())...
+Listening on http://0.0.0.0:80/
+Hit Ctrl-C to quit.
+
+Signal handler called with signal 15
+ERROR:root:table "user" already exists
+Bottle v0.12.9 server starting up (using WSGIRefServer())...
+Listening on http://0.0.0.0:80/
+Hit Ctrl-C to quit.
+
+Signal handler called with signal 15
+ERROR:root:table "user" already exists
+Bottle v0.12.9 server starting up (using WSGIRefServer())...
+Listening on http://0.0.0.0:80/
+Hit Ctrl-C to quit.
+
+ERROR:root:table "user" already exists
+Bottle v0.12.9 server starting up (using WSGIRefServer())...
+Listening on http://0.0.0.0:80/
+Hit Ctrl-C to quit.
+
+Traceback (most recent call last):
+  File "/home/ubuntu/apps/dx_line/dx_line.py", line 93, in <module>
+    main()
+  File "/home/ubuntu/apps/dx_line/dx_line.py", line 89, in main
+    run(host='0.0.0.0', port=80)
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 3117, in run
+    server.run(app)
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 2771, in run
+    srv = make_server(self.host, self.port, app, server_cls, handler_cls)
+  File "/usr/lib/python2.7/wsgiref/simple_server.py", line 144, in make_server
+    server = server_class((host, port), handler_class)
+  File "/usr/lib/python2.7/SocketServer.py", line 419, in __init__
+    self.server_bind()
+  File "/usr/lib/python2.7/wsgiref/simple_server.py", line 48, in server_bind
+    HTTPServer.server_bind(self)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 108, in server_bind
+    SocketServer.TCPServer.server_bind(self)
+  File "/usr/lib/python2.7/SocketServer.py", line 430, in server_bind
+    self.socket.bind(self.server_address)
+  File "/usr/lib/python2.7/socket.py", line 224, in meth
+    return getattr(self._sock,name)(*args)
+socket.error: [Errno 98] Address already in use
+Signal handler called with signal 15
+ERROR:root:table "user" already exists
+Bottle v0.12.9 server starting up (using WSGIRefServer())...
+Listening on http://0.0.0.0:80/
+Hit Ctrl-C to quit.
+
+Signal handler called with signal 15
+ERROR:root:table "user" already exists
+Bottle v0.12.9 server starting up (using WSGIRefServer())...
+Listening on http://0.0.0.0:80/
+Hit Ctrl-C to quit.
+
+ERROR:root:table "user" already exists
+Bottle v0.12.9 server starting up (using WSGIRefServer())...
+Listening on http://0.0.0.0:80/
+Hit Ctrl-C to quit.
+
+Traceback (most recent call last):
+  File "/home/ubuntu/apps/dx_line/dx_line.py", line 93, in <module>
+    main()
+  File "/home/ubuntu/apps/dx_line/dx_line.py", line 89, in main
+    run(host='0.0.0.0', port=80)
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 3117, in run
+    server.run(app)
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 2771, in run
+    srv = make_server(self.host, self.port, app, server_cls, handler_cls)
+  File "/usr/lib/python2.7/wsgiref/simple_server.py", line 144, in make_server
+    server = server_class((host, port), handler_class)
+  File "/usr/lib/python2.7/SocketServer.py", line 419, in __init__
+    self.server_bind()
+  File "/usr/lib/python2.7/wsgiref/simple_server.py", line 48, in server_bind
+    HTTPServer.server_bind(self)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 108, in server_bind
+    SocketServer.TCPServer.server_bind(self)
+  File "/usr/lib/python2.7/SocketServer.py", line 430, in server_bind
+    self.socket.bind(self.server_address)
+  File "/usr/lib/python2.7/socket.py", line 224, in meth
+    return getattr(self._sock,name)(*args)
+socket.error: [Errno 98] Address already in use
+ERROR:root:table "user" already exists
+Bottle v0.12.9 server starting up (using WSGIRefServer())...
+Listening on http://0.0.0.0:80/
+Hit Ctrl-C to quit.
+
+Traceback (most recent call last):
+  File "/home/ubuntu/apps/dx_line/dx_line.py", line 93, in <module>
+    main()
+  File "/home/ubuntu/apps/dx_line/dx_line.py", line 89, in main
+    run(host='0.0.0.0', port=80)
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 3117, in run
+    server.run(app)
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 2771, in run
+    srv = make_server(self.host, self.port, app, server_cls, handler_cls)
+  File "/usr/lib/python2.7/wsgiref/simple_server.py", line 144, in make_server
+    server = server_class((host, port), handler_class)
+  File "/usr/lib/python2.7/SocketServer.py", line 419, in __init__
+    self.server_bind()
+  File "/usr/lib/python2.7/wsgiref/simple_server.py", line 48, in server_bind
+    HTTPServer.server_bind(self)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 108, in server_bind
+    SocketServer.TCPServer.server_bind(self)
+  File "/usr/lib/python2.7/SocketServer.py", line 430, in server_bind
+    self.socket.bind(self.server_address)
+  File "/usr/lib/python2.7/socket.py", line 224, in meth
+    return getattr(self._sock,name)(*args)
+socket.error: [Errno 98] Address already in use
+Signal handler called with signal 15
+ERROR:root:table "user" already exists
+Bottle v0.12.9 server starting up (using WSGIRefServer())...
+Listening on http://0.0.0.0:80/
+Hit Ctrl-C to quit.
+
+Signal handler called with signal 15
+ERROR:root:table "user" already exists
+Bottle v0.12.9 server starting up (using WSGIRefServer())...
+Listening on http://0.0.0.0:80/
+Hit Ctrl-C to quit.
+
+ERROR:root:table "user" already exists
+Bottle v0.12.9 server starting up (using WSGIRefServer())...
+Listening on http://0.0.0.0:80/
+Hit Ctrl-C to quit.
+
+Traceback (most recent call last):
+  File "/home/ubuntu/apps/dx_line/dx_line.py", line 93, in <module>
+    main()
+  File "/home/ubuntu/apps/dx_line/dx_line.py", line 89, in main
+    run(host='0.0.0.0', port=80)
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 3117, in run
+    server.run(app)
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 2771, in run
+    srv = make_server(self.host, self.port, app, server_cls, handler_cls)
+  File "/usr/lib/python2.7/wsgiref/simple_server.py", line 144, in make_server
+    server = server_class((host, port), handler_class)
+  File "/usr/lib/python2.7/SocketServer.py", line 419, in __init__
+    self.server_bind()
+  File "/usr/lib/python2.7/wsgiref/simple_server.py", line 48, in server_bind
+    HTTPServer.server_bind(self)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 108, in server_bind
+    SocketServer.TCPServer.server_bind(self)
+  File "/usr/lib/python2.7/SocketServer.py", line 430, in server_bind
+    self.socket.bind(self.server_address)
+  File "/usr/lib/python2.7/socket.py", line 224, in meth
+    return getattr(self._sock,name)(*args)
+socket.error: [Errno 98] Address already in use
+ERROR:root:table "user" already exists
+Bottle v0.12.9 server starting up (using WSGIRefServer())...
+Listening on http://0.0.0.0:80/
+Hit Ctrl-C to quit.
+
+Traceback (most recent call last):
+  File "/home/ubuntu/apps/dx_line/dx_line.py", line 93, in <module>
+    main()
+  File "/home/ubuntu/apps/dx_line/dx_line.py", line 89, in main
+    run(host='0.0.0.0', port=80)
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 3117, in run
+    server.run(app)
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 2771, in run
+    srv = make_server(self.host, self.port, app, server_cls, handler_cls)
+  File "/usr/lib/python2.7/wsgiref/simple_server.py", line 144, in make_server
+    server = server_class((host, port), handler_class)
+  File "/usr/lib/python2.7/SocketServer.py", line 419, in __init__
+    self.server_bind()
+  File "/usr/lib/python2.7/wsgiref/simple_server.py", line 48, in server_bind
+    HTTPServer.server_bind(self)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 108, in server_bind
+    SocketServer.TCPServer.server_bind(self)
+  File "/usr/lib/python2.7/SocketServer.py", line 430, in server_bind
+    self.socket.bind(self.server_address)
+  File "/usr/lib/python2.7/socket.py", line 224, in meth
+    return getattr(self._sock,name)(*args)
+socket.error: [Errno 98] Address already in use
+ERROR:root:table "user" already exists
+Bottle v0.12.9 server starting up (using WSGIRefServer())...
+Listening on http://0.0.0.0:80/
+Hit Ctrl-C to quit.
+
+Traceback (most recent call last):
+  File "/home/ubuntu/apps/dx_line/dx_line.py", line 93, in <module>
+    main()
+  File "/home/ubuntu/apps/dx_line/dx_line.py", line 89, in main
+    run(host='0.0.0.0', port=80)
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 3117, in run
+    server.run(app)
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 2771, in run
+    srv = make_server(self.host, self.port, app, server_cls, handler_cls)
+  File "/usr/lib/python2.7/wsgiref/simple_server.py", line 144, in make_server
+    server = server_class((host, port), handler_class)
+  File "/usr/lib/python2.7/SocketServer.py", line 419, in __init__
+    self.server_bind()
+  File "/usr/lib/python2.7/wsgiref/simple_server.py", line 48, in server_bind
+    HTTPServer.server_bind(self)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 108, in server_bind
+    SocketServer.TCPServer.server_bind(self)
+  File "/usr/lib/python2.7/SocketServer.py", line 430, in server_bind
+    self.socket.bind(self.server_address)
+  File "/usr/lib/python2.7/socket.py", line 224, in meth
+    return getattr(self._sock,name)(*args)
+socket.error: [Errno 98] Address already in use
+ERROR:root:table "user" already exists
+Bottle v0.12.9 server starting up (using WSGIRefServer())...
+Listening on http://0.0.0.0:80/
+Hit Ctrl-C to quit.
+
+Traceback (most recent call last):
+  File "/home/ubuntu/apps/dx_line/dx_line.py", line 93, in <module>
+    main()
+  File "/home/ubuntu/apps/dx_line/dx_line.py", line 89, in main
+    run(host='0.0.0.0', port=80)
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 3117, in run
+    server.run(app)
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 2771, in run
+    srv = make_server(self.host, self.port, app, server_cls, handler_cls)
+  File "/usr/lib/python2.7/wsgiref/simple_server.py", line 144, in make_server
+    server = server_class((host, port), handler_class)
+  File "/usr/lib/python2.7/SocketServer.py", line 419, in __init__
+    self.server_bind()
+  File "/usr/lib/python2.7/wsgiref/simple_server.py", line 48, in server_bind
+    HTTPServer.server_bind(self)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 108, in server_bind
+    SocketServer.TCPServer.server_bind(self)
+  File "/usr/lib/python2.7/SocketServer.py", line 430, in server_bind
+    self.socket.bind(self.server_address)
+  File "/usr/lib/python2.7/socket.py", line 224, in meth
+    return getattr(self._sock,name)(*args)
+socket.error: [Errno 98] Address already in use
+ERROR:root:table "user" already exists
+Bottle v0.12.9 server starting up (using WSGIRefServer())...
+Listening on http://0.0.0.0:80/
+Hit Ctrl-C to quit.
+
+Traceback (most recent call last):
+  File "/home/ubuntu/apps/dx_line/dx_line.py", line 93, in <module>
+    main()
+  File "/home/ubuntu/apps/dx_line/dx_line.py", line 89, in main
+    run(host='0.0.0.0', port=80)
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 3117, in run
+    server.run(app)
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 2771, in run
+    srv = make_server(self.host, self.port, app, server_cls, handler_cls)
+  File "/usr/lib/python2.7/wsgiref/simple_server.py", line 144, in make_server
+    server = server_class((host, port), handler_class)
+  File "/usr/lib/python2.7/SocketServer.py", line 419, in __init__
+    self.server_bind()
+  File "/usr/lib/python2.7/wsgiref/simple_server.py", line 48, in server_bind
+    HTTPServer.server_bind(self)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 108, in server_bind
+    SocketServer.TCPServer.server_bind(self)
+  File "/usr/lib/python2.7/SocketServer.py", line 430, in server_bind
+    self.socket.bind(self.server_address)
+  File "/usr/lib/python2.7/socket.py", line 224, in meth
+    return getattr(self._sock,name)(*args)
+socket.error: [Errno 98] Address already in use
+ERROR:root:table "user" already exists
+Bottle v0.12.9 server starting up (using WSGIRefServer())...
+Listening on http://0.0.0.0:80/
+Hit Ctrl-C to quit.
+
+Traceback (most recent call last):
+  File "/home/ubuntu/apps/dx_line/dx_line.py", line 93, in <module>
+    main()
+  File "/home/ubuntu/apps/dx_line/dx_line.py", line 89, in main
+    run(host='0.0.0.0', port=80)
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 3117, in run
+    server.run(app)
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 2771, in run
+    srv = make_server(self.host, self.port, app, server_cls, handler_cls)
+  File "/usr/lib/python2.7/wsgiref/simple_server.py", line 144, in make_server
+    server = server_class((host, port), handler_class)
+  File "/usr/lib/python2.7/SocketServer.py", line 419, in __init__
+    self.server_bind()
+  File "/usr/lib/python2.7/wsgiref/simple_server.py", line 48, in server_bind
+    HTTPServer.server_bind(self)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 108, in server_bind
+    SocketServer.TCPServer.server_bind(self)
+  File "/usr/lib/python2.7/SocketServer.py", line 430, in server_bind
+    self.socket.bind(self.server_address)
+  File "/usr/lib/python2.7/socket.py", line 224, in meth
+    return getattr(self._sock,name)(*args)
+socket.error: [Errno 98] Address already in use
+ERROR:root:table "user" already exists
+Bottle v0.12.9 server starting up (using WSGIRefServer())...
+Listening on http://0.0.0.0:80/
+Hit Ctrl-C to quit.
+
+Traceback (most recent call last):
+  File "/home/ubuntu/apps/dx_line/dx_line.py", line 93, in <module>
+    main()
+  File "/home/ubuntu/apps/dx_line/dx_line.py", line 89, in main
+    run(host='0.0.0.0', port=80)
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 3117, in run
+    server.run(app)
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 2771, in run
+    srv = make_server(self.host, self.port, app, server_cls, handler_cls)
+  File "/usr/lib/python2.7/wsgiref/simple_server.py", line 144, in make_server
+    server = server_class((host, port), handler_class)
+  File "/usr/lib/python2.7/SocketServer.py", line 419, in __init__
+    self.server_bind()
+  File "/usr/lib/python2.7/wsgiref/simple_server.py", line 48, in server_bind
+    HTTPServer.server_bind(self)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 108, in server_bind
+    SocketServer.TCPServer.server_bind(self)
+  File "/usr/lib/python2.7/SocketServer.py", line 430, in server_bind
+    self.socket.bind(self.server_address)
+  File "/usr/lib/python2.7/socket.py", line 224, in meth
+    return getattr(self._sock,name)(*args)
+socket.error: [Errno 98] Address already in use
+ERROR:root:table "user" already exists
+Bottle v0.12.9 server starting up (using WSGIRefServer())...
+Listening on http://0.0.0.0:80/
+Hit Ctrl-C to quit.
+
+Traceback (most recent call last):
+  File "/home/ubuntu/apps/dx_line/dx_line.py", line 93, in <module>
+    main()
+  File "/home/ubuntu/apps/dx_line/dx_line.py", line 89, in main
+    run(host='0.0.0.0', port=80)
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 3117, in run
+    server.run(app)
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 2771, in run
+    srv = make_server(self.host, self.port, app, server_cls, handler_cls)
+  File "/usr/lib/python2.7/wsgiref/simple_server.py", line 144, in make_server
+    server = server_class((host, port), handler_class)
+  File "/usr/lib/python2.7/SocketServer.py", line 419, in __init__
+    self.server_bind()
+  File "/usr/lib/python2.7/wsgiref/simple_server.py", line 48, in server_bind
+    HTTPServer.server_bind(self)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 108, in server_bind
+    SocketServer.TCPServer.server_bind(self)
+  File "/usr/lib/python2.7/SocketServer.py", line 430, in server_bind
+    self.socket.bind(self.server_address)
+  File "/usr/lib/python2.7/socket.py", line 224, in meth
+    return getattr(self._sock,name)(*args)
+socket.error: [Errno 98] Address already in use
+Signal handler called with signal 15
+ERROR:root:table "user" already exists
+Bottle v0.12.9 server starting up (using WSGIRefServer())...
+Listening on http://0.0.0.0:80/
+Hit Ctrl-C to quit.
+
+Signal handler called with signal 15
+ERROR:root:table "user" already exists
+Bottle v0.12.9 server starting up (using WSGIRefServer())...
+Listening on http://0.0.0.0:80/
+Hit Ctrl-C to quit.
+
+Signal handler called with signal 15
+ERROR:root:table "user" already exists
+Bottle v0.12.9 server starting up (using WSGIRefServer())...
+Listening on http://0.0.0.0:80/
+Hit Ctrl-C to quit.
+
+Signal handler called with signal 15
+ERROR:root:table "user" already exists
+Bottle v0.12.9 server starting up (using WSGIRefServer())...
+Listening on http://0.0.0.0:80/
+Hit Ctrl-C to quit.
+
+Signal handler called with signal 15
+ERROR:root:table "user" already exists
+Bottle v0.12.9 server starting up (using WSGIRefServer())...
+Listening on http://0.0.0.0:80/
+Hit Ctrl-C to quit.
+
+Signal handler called with signal 15
+ERROR:root:table "user" already exists
+Bottle v0.12.9 server starting up (using WSGIRefServer())...
+Listening on http://0.0.0.0:80/
+Hit Ctrl-C to quit.
+
+Signal handler called with signal 15
+ERROR:root:table "user" already exists
+Bottle v0.12.9 server starting up (using WSGIRefServer())...
+Listening on http://0.0.0.0:80/
+Hit Ctrl-C to quit.
+
+Signal handler called with signal 15
+ERROR:root:table "user" already exists
+Bottle v0.12.9 server starting up (using WSGIRefServer())...
+Listening on http://0.0.0.0:80/
+Hit Ctrl-C to quit.
+
+Signal handler called with signal 15
+ERROR:root:table "user" already exists
+Bottle v0.12.9 server starting up (using WSGIRefServer())...
+Listening on http://0.0.0.0:80/
+Hit Ctrl-C to quit.
+
+Signal handler called with signal 15
+ERROR:root:table "user" already exists
+Bottle v0.12.9 server starting up (using WSGIRefServer())...
+Listening on http://0.0.0.0:80/
+Hit Ctrl-C to quit.
+
+Signal handler called with signal 15
+ERROR:root:table "user" already exists
+Bottle v0.12.9 server starting up (using WSGIRefServer())...
+Listening on http://0.0.0.0:80/
+Hit Ctrl-C to quit.
+
+Signal handler called with signal 15
+ERROR:root:table "user" already exists
+Bottle v0.12.9 server starting up (using WSGIRefServer())...
+Listening on http://0.0.0.0:80/
+Hit Ctrl-C to quit.
+
+Signal handler called with signal 15
+ERROR:root:table "user" already exists
+Bottle v0.12.9 server starting up (using WSGIRefServer())...
+Listening on http://0.0.0.0:80/
+Hit Ctrl-C to quit.
+
+124.63.192.180 - - [15/Aug/2016 23:23:32] "GET / HTTP/1.1" 500 795
+124.63.192.180 - - [15/Aug/2016 23:23:32] "GET /favicon.ico HTTP/1.1" 404 781
+124.63.192.180 - - [15/Aug/2016 23:23:33] "GET /tweet HTTP/1.1" 500 800
+124.63.192.180 - - [15/Aug/2016 23:23:34] "GET /tweet HTTP/1.1" 500 800
+Signal handler called with signal 15
+  File "/home/ubuntu/apps/dx_line/dx_line.py", line 73
+    bottle.TEMPLATE_PATH.insert(0,'/home/ubuntu/apps/dx_line/views/static')
+    ^
+IndentationError: unexpected indent
+  File "/home/ubuntu/apps/dx_line/dx_line.py", line 73
+    bottle.TEMPLATE_PATH.insert(0,'/home/ubuntu/apps/dx_line/views/static')
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/home/ubuntu/apps/dx_line/dx_line.py", line 95, in <module>
+    main()
+  File "/home/ubuntu/apps/dx_line/dx_line.py", line 73, in main
+    bottle.TEMPLATE_PATH.insert(0,'/home/ubuntu/apps/dx_line/views/static')
+NameError: global name 'bottle' is not defined
+Traceback (most recent call last):
+  File "/home/ubuntu/apps/dx_line/dx_line.py", line 95, in <module>
+    main()
+  File "/home/ubuntu/apps/dx_line/dx_line.py", line 73, in main
+    bottle.TEMPLATE_PATH.insert(0,'/home/ubuntu/apps/dx_line/views/static')
+NameError: global name 'bottle' is not defined
+ERROR:root:table "user" already exists
+Bottle v0.12.9 server starting up (using WSGIRefServer())...
+Listening on http://0.0.0.0:80/
+Hit Ctrl-C to quit.
+
+Signal handler called with signal 15
+ERROR:root:table "user" already exists
+Bottle v0.12.9 server starting up (using WSGIRefServer())...
+Listening on http://0.0.0.0:80/
+Hit Ctrl-C to quit.
+
+124.63.192.180 - - [15/Aug/2016 23:34:07] "GET /tweet HTTP/1.1" 500 800
+Signal handler called with signal 15
+ERROR:root:table "user" already exists
+Bottle v0.12.9 server starting up (using WSGIRefServer())...
+Listening on http://0.0.0.0:80/
+Hit Ctrl-C to quit.
+
+124.63.192.180 - - [15/Aug/2016 23:34:58] "GET /tweet HTTP/1.1" 200 4057
+124.63.192.180 - - [15/Aug/2016 23:34:58] "GET /static/css/bootstrap.css HTTP/1.1" 200 137067
+124.63.192.180 - - [15/Aug/2016 23:34:58] "GET /static/css/style.css HTTP/1.1" 200 3514
+124.63.192.180 - - [15/Aug/2016 23:34:58] "GET /static/css/font-awesome.css HTTP/1.1" 200 26651
+124.63.192.180 - - [15/Aug/2016 23:34:58] "GET /static/js/jquery-1.11.1.js HTTP/1.1" 200 282766
+124.63.192.180 - - [15/Aug/2016 23:34:58] "GET /static/js/bootstrap.js HTTP/1.1" 200 67155
+124.63.192.180 - - [15/Aug/2016 23:34:58] "GET /assets/img/user.png HTTP/1.1" 404 797
+124.63.192.180 - - [15/Aug/2016 23:34:58] "GET /static/css/bootstrap.css.map HTTP/1.1" 404 783
+124.63.192.180 - - [15/Aug/2016 23:34:58] "GET /static/fonts/fontawesome-webfont.woff?v=4.2.0 HTTP/1.1" 200 65452
+INFO:root:['__doc__', '__init__', '__iter__', '__module__', 'buf', 'buflist', 'close', 'closed', 'flush', 'getvalue', 'isatty', 'len', 'next', 'pos', 'read', 'readline', 'readlines', 'seek', 'softspace', 'tell', 'truncate', 'write', 'writelines']
+INFO:root:message=aaa
+INFO:root:ÌïúÍ∏Ä
+124.63.192.180 - - [15/Aug/2016 23:36:49] "POST /tweet HTTP/1.1" 303 0
+124.63.192.180 - - [15/Aug/2016 23:36:49] "GET /tweet HTTP/1.1" 200 4396
+124.63.192.180 - - [15/Aug/2016 23:36:49] "GET /assets/img/user.png HTTP/1.1" 404 797
+124.63.192.180 - - [15/Aug/2016 23:36:49] "GET /static/css/bootstrap.css.map HTTP/1.1" 404 783
+INFO:root:['__doc__', '__init__', '__iter__', '__module__', 'buf', 'buflist', 'close', 'closed', 'flush', 'getvalue', 'isatty', 'len', 'next', 'pos', 'read', 'readline', 'readlines', 'seek', 'softspace', 'tell', 'truncate', 'write', 'writelines']
+INFO:root:message=%E3%85%87%E3%85%87%E3%85%87%E3%85%87
+INFO:root:ÌïúÍ∏Ä
+124.63.192.180 - - [15/Aug/2016 23:38:21] "POST /tweet HTTP/1.1" 303 0
+124.63.192.180 - - [15/Aug/2016 23:38:21] "GET /tweet HTTP/1.1" 200 4768
+124.63.192.180 - - [15/Aug/2016 23:38:21] "GET /assets/img/user.png HTTP/1.1" 404 797
+124.63.192.180 - - [15/Aug/2016 23:38:21] "GET /static/css/bootstrap.css.map HTTP/1.1" 404 783
+124.63.192.180 - - [15/Aug/2016 23:44:42] "GET /tweet HTTP/1.1" 200 4768
+124.63.192.180 - - [15/Aug/2016 23:44:42] "GET /static/css/bootstrap.css HTTP/1.1" 304 0
+124.63.192.180 - - [15/Aug/2016 23:44:42] "GET /static/js/jquery-1.11.1.js HTTP/1.1" 304 0
+124.63.192.180 - - [15/Aug/2016 23:44:42] "GET /static/css/font-awesome.css HTTP/1.1" 304 0
+124.63.192.180 - - [15/Aug/2016 23:44:42] "GET /static/js/bootstrap.js HTTP/1.1" 304 0
+124.63.192.180 - - [15/Aug/2016 23:44:42] "GET /static/css/style.css HTTP/1.1" 304 0
+124.63.192.180 - - [15/Aug/2016 23:44:42] "GET /assets/img/user.png HTTP/1.1" 404 797
+124.63.192.180 - - [15/Aug/2016 23:44:42] "GET /static/css/bootstrap.css.map HTTP/1.1" 404 783
+Signal handler called with signal 15
+ERROR:root:table "user" already exists
+Bottle v0.12.9 server starting up (using WSGIRefServer())...
+Listening on http://0.0.0.0:80/
+Hit Ctrl-C to quit.
+
+124.63.192.180 - - [15/Aug/2016 23:44:46] "GET /tweet HTTP/1.1" 200 4756
+124.63.192.180 - - [15/Aug/2016 23:44:46] "GET /static/js/bootstrap.js HTTP/1.1" 304 0
+124.63.192.180 - - [15/Aug/2016 23:44:46] "GET /static/css/font-awesome.css HTTP/1.1" 304 0
+124.63.192.180 - - [15/Aug/2016 23:44:46] "GET /static/css/style.css HTTP/1.1" 304 0
+124.63.192.180 - - [15/Aug/2016 23:44:46] "GET /static/js/jquery-1.11.1.js HTTP/1.1" 304 0
+124.63.192.180 - - [15/Aug/2016 23:44:46] "GET /static/css/bootstrap.css HTTP/1.1" 304 0
+124.63.192.180 - - [15/Aug/2016 23:44:46] "GET /assets/img/user.png HTTP/1.1" 404 797
+124.63.192.180 - - [15/Aug/2016 23:44:46] "GET /static/css/bootstrap.css.map HTTP/1.1" 404 783
+Signal handler called with signal 15
+ERROR:root:table "user" already exists
+Bottle v0.12.9 server starting up (using WSGIRefServer())...
+Listening on http://0.0.0.0:80/
+Hit Ctrl-C to quit.
+
+124.63.192.180 - - [15/Aug/2016 23:46:32] "GET /tweet HTTP/1.1" 200 4804
+124.63.192.180 - - [15/Aug/2016 23:46:32] "GET /static/css/style.css HTTP/1.1" 304 0
+124.63.192.180 - - [15/Aug/2016 23:46:32] "GET /static/css/font-awesome.css HTTP/1.1" 304 0
+124.63.192.180 - - [15/Aug/2016 23:46:32] "GET /static/js/jquery-1.11.1.js HTTP/1.1" 304 0
+124.63.192.180 - - [15/Aug/2016 23:46:32] "GET /static/css/bootstrap.css HTTP/1.1" 304 0
+124.63.192.180 - - [15/Aug/2016 23:46:32] "GET /static/js/bootstrap.js HTTP/1.1" 304 0
+124.63.192.180 - - [15/Aug/2016 23:46:32] "GET /assets/img/user.png HTTP/1.1" 404 797
+124.63.192.180 - - [15/Aug/2016 23:46:32] "GET /static/css/bootstrap.css.map HTTP/1.1" 404 783
+INFO:root:['__doc__', '__init__', '__iter__', '__module__', 'buf', 'buflist', 'close', 'closed', 'flush', 'getvalue', 'isatty', 'len', 'next', 'pos', 'read', 'readline', 'readlines', 'seek', 'softspace', 'tell', 'truncate', 'write', 'writelines']
+INFO:root:message=ddd
+INFO:root:ÌïúÍ∏Ä
+124.63.192.180 - - [15/Aug/2016 23:46:38] "POST /tweet HTTP/1.1" 303 0
+124.63.192.180 - - [15/Aug/2016 23:46:38] "GET /tweet HTTP/1.1" 200 5143
+124.63.192.180 - - [15/Aug/2016 23:46:38] "GET /static/css/bootstrap.css.map HTTP/1.1" 404 783
+124.63.192.180 - - [15/Aug/2016 23:46:38] "GET /assets/img/user.png HTTP/1.1" 404 797
+Signal handler called with signal 15
+ERROR:root:table "user" already exists
+Bottle v0.12.9 server starting up (using WSGIRefServer())...
+Listening on http://0.0.0.0:80/
+Hit Ctrl-C to quit.
+
+124.63.192.180 - - [15/Aug/2016 23:47:05] "GET /tweet HTTP/1.1" 200 5154
+124.63.192.180 - - [15/Aug/2016 23:47:06] "GET /static/css/bootstrap.css HTTP/1.1" 304 0
+124.63.192.180 - - [15/Aug/2016 23:47:06] "GET /static/css/style.css HTTP/1.1" 304 0
+124.63.192.180 - - [15/Aug/2016 23:47:06] "GET /static/js/jquery-1.11.1.js HTTP/1.1" 304 0
+124.63.192.180 - - [15/Aug/2016 23:47:06] "GET /static/js/bootstrap.js HTTP/1.1" 304 0
+124.63.192.180 - - [15/Aug/2016 23:47:06] "GET /static/css/font-awesome.css HTTP/1.1" 304 0
+124.63.192.180 - - [15/Aug/2016 23:47:06] "GET /assets/img/user.png HTTP/1.1" 404 797
+124.63.192.180 - - [15/Aug/2016 23:47:06] "GET /static/css/bootstrap.css.map HTTP/1.1" 404 783
+Signal handler called with signal 15
+ERROR:root:table "user" already exists
+Bottle v0.12.9 server starting up (using WSGIRefServer())...
+Listening on http://0.0.0.0:80/
+Hit Ctrl-C to quit.
+
+124.63.192.180 - - [15/Aug/2016 23:47:11] "GET /tweet HTTP/1.1" 200 5154
+124.63.192.180 - - [15/Aug/2016 23:47:11] "GET /static/css/bootstrap.css HTTP/1.1" 304 0
+124.63.192.180 - - [15/Aug/2016 23:47:11] "GET /static/js/bootstrap.js HTTP/1.1" 304 0
+124.63.192.180 - - [15/Aug/2016 23:47:11] "GET /static/css/style.css HTTP/1.1" 304 0
+124.63.192.180 - - [15/Aug/2016 23:47:11] "GET /static/css/font-awesome.css HTTP/1.1" 304 0
+124.63.192.180 - - [15/Aug/2016 23:47:11] "GET /static/js/jquery-1.11.1.js HTTP/1.1" 304 0
+124.63.192.180 - - [15/Aug/2016 23:47:11] "GET /assets/img/user.png HTTP/1.1" 404 797
+124.63.192.180 - - [15/Aug/2016 23:47:11] "GET /static/css/bootstrap.css.map HTTP/1.1" 404 783
+INFO:root:['__doc__', '__init__', '__iter__', '__module__', 'buf', 'buflist', 'close', 'closed', 'flush', 'getvalue', 'isatty', 'len', 'next', 'pos', 'read', 'readline', 'readlines', 'seek', 'softspace', 'tell', 'truncate', 'write', 'writelines']
+INFO:root:message=ddd
+INFO:root:ÌïúÍ∏Ä
+124.63.192.180 - - [15/Aug/2016 23:47:12] "POST /tweet HTTP/1.1" 303 0
+124.63.192.180 - - [15/Aug/2016 23:47:12] "GET /tweet HTTP/1.1" 200 5493
+124.63.192.180 - - [15/Aug/2016 23:47:12] "GET /assets/img/user.png HTTP/1.1" 404 797
+124.63.192.180 - - [15/Aug/2016 23:47:12] "GET /static/css/bootstrap.css.map HTTP/1.1" 404 783
+Signal handler called with signal 15
+ERROR:root:table "user" already exists
+Bottle v0.12.9 server starting up (using WSGIRefServer())...
+Listening on http://0.0.0.0:80/
+Hit Ctrl-C to quit.
+
+124.63.192.180 - - [15/Aug/2016 23:49:58] "GET /tweet HTTP/1.1" 200 5438
+124.63.192.180 - - [15/Aug/2016 23:49:58] "GET /static/css/bootstrap.css HTTP/1.1" 304 0
+124.63.192.180 - - [15/Aug/2016 23:49:58] "GET /static/css/font-awesome.css HTTP/1.1" 304 0
+124.63.192.180 - - [15/Aug/2016 23:49:58] "GET /static/css/style.css HTTP/1.1" 304 0
+124.63.192.180 - - [15/Aug/2016 23:49:58] "GET /static/js/bootstrap.js HTTP/1.1" 304 0
+124.63.192.180 - - [15/Aug/2016 23:49:59] "GET /static/js/jquery-1.11.1.js HTTP/1.1" 304 0
+124.63.192.180 - - [15/Aug/2016 23:49:59] "GET /assets/img/user.png HTTP/1.1" 404 797
+124.63.192.180 - - [15/Aug/2016 23:49:59] "GET /static/css/bootstrap.css.map HTTP/1.1" 404 783
+INFO:root:['__doc__', '__init__', '__iter__', '__module__', 'buf', 'buflist', 'close', 'closed', 'flush', 'getvalue', 'isatty', 'len', 'next', 'pos', 'read', 'readline', 'readlines', 'seek', 'softspace', 'tell', 'truncate', 'write', 'writelines']
+INFO:root:message=
+INFO:root:ÌïúÍ∏Ä
+124.63.192.180 - - [15/Aug/2016 23:50:00] "POST /tweet HTTP/1.1" 303 0
+124.63.192.180 - - [15/Aug/2016 23:50:00] "GET /tweet HTTP/1.1" 200 5774
+124.63.192.180 - - [15/Aug/2016 23:50:00] "GET /assets/img/user.png HTTP/1.1" 404 797
+124.63.192.180 - - [15/Aug/2016 23:50:00] "GET /static/css/bootstrap.css.map HTTP/1.1" 404 783
+Signal handler called with signal 15
+ERROR:root:table "user" already exists
+Bottle v0.12.9 server starting up (using WSGIRefServer())...
+Listening on http://0.0.0.0:80/
+Hit Ctrl-C to quit.
+
+124.63.192.180 - - [15/Aug/2016 23:50:22] "GET /tweet HTTP/1.1" 200 5788
+124.63.192.180 - - [15/Aug/2016 23:50:22] "GET /static/css/bootstrap.css HTTP/1.1" 304 0
+124.63.192.180 - - [15/Aug/2016 23:50:22] "GET /static/css/style.css HTTP/1.1" 304 0
+124.63.192.180 - - [15/Aug/2016 23:50:22] "GET /static/css/font-awesome.css HTTP/1.1" 304 0
+124.63.192.180 - - [15/Aug/2016 23:50:22] "GET /static/js/jquery-1.11.1.js HTTP/1.1" 304 0
+124.63.192.180 - - [15/Aug/2016 23:50:22] "GET /static/js/bootstrap.js HTTP/1.1" 304 0
+124.63.192.180 - - [15/Aug/2016 23:50:22] "GET /assets/img/user.png HTTP/1.1" 404 797
+124.63.192.180 - - [15/Aug/2016 23:50:22] "GET /static/css/bootstrap.css.map HTTP/1.1" 404 783
+INFO:root:['__doc__', '__init__', '__iter__', '__module__', 'buf', 'buflist', 'close', 'closed', 'flush', 'getvalue', 'isatty', 'len', 'next', 'pos', 'read', 'readline', 'readlines', 'seek', 'softspace', 'tell', 'truncate', 'write', 'writelines']
+INFO:root:message=aaa
+INFO:root:ÌïúÍ∏Ä
+124.63.192.180 - - [15/Aug/2016 23:50:24] "POST /tweet HTTP/1.1" 303 0
+124.63.192.180 - - [15/Aug/2016 23:50:24] "GET /tweet HTTP/1.1" 200 6127
+124.63.192.180 - - [15/Aug/2016 23:50:25] "GET /assets/img/user.png HTTP/1.1" 404 797
+124.63.192.180 - - [15/Aug/2016 23:50:25] "GET /static/css/bootstrap.css.map HTTP/1.1" 404 783
+Signal handler called with signal 15
+ERROR:root:table "user" already exists
+Bottle v0.12.9 server starting up (using WSGIRefServer())...
+Listening on http://0.0.0.0:80/
+Hit Ctrl-C to quit.
+
+124.63.192.180 - - [15/Aug/2016 23:52:56] "GET /tweet HTTP/1.1" 200 6347
+124.63.192.180 - - [15/Aug/2016 23:52:56] "GET /static/css/bootstrap.css HTTP/1.1" 304 0
+124.63.192.180 - - [15/Aug/2016 23:52:56] "GET /static/css/font-awesome.css HTTP/1.1" 304 0
+124.63.192.180 - - [15/Aug/2016 23:52:56] "GET /static/js/bootstrap.js HTTP/1.1" 304 0
+124.63.192.180 - - [15/Aug/2016 23:52:56] "GET /static/js/jquery-1.11.1.js HTTP/1.1" 304 0
+124.63.192.180 - - [15/Aug/2016 23:52:56] "GET /static/css/style.css HTTP/1.1" 304 0
+124.63.192.180 - - [15/Aug/2016 23:52:56] "GET /assets/img/user.png HTTP/1.1" 404 797
+124.63.192.180 - - [15/Aug/2016 23:52:56] "GET /static/css/bootstrap.css.map HTTP/1.1" 404 783
+INFO:root:['__doc__', '__init__', '__iter__', '__module__', 'buf', 'buflist', 'close', 'closed', 'flush', 'getvalue', 'isatty', 'len', 'next', 'pos', 'read', 'readline', 'readlines', 'seek', 'softspace', 'tell', 'truncate', 'write', 'writelines']
+INFO:root:
+INFO:root:ÌïúÍ∏Ä
+124.63.192.180 - - [15/Aug/2016 23:52:58] "POST /tweet HTTP/1.1" 303 0
+124.63.192.180 - - [15/Aug/2016 23:52:58] "GET /tweet HTTP/1.1" 200 6675
+Signal handler called with signal 15
+ERROR:root:table "user" already exists
+Bottle v0.12.9 server starting up (using WSGIRefServer())...
+Listening on http://0.0.0.0:80/
+Hit Ctrl-C to quit.
+
+124.63.192.180 - - [15/Aug/2016 23:53:14] "GET /tweet HTTP/1.1" 200 6657
+124.63.192.180 - - [15/Aug/2016 23:53:14] "GET /static/css/style.css HTTP/1.1" 304 0
+124.63.192.180 - - [15/Aug/2016 23:53:14] "GET /static/css/font-awesome.css HTTP/1.1" 304 0
+124.63.192.180 - - [15/Aug/2016 23:53:14] "GET /static/js/bootstrap.js HTTP/1.1" 304 0
+124.63.192.180 - - [15/Aug/2016 23:53:14] "GET /static/css/bootstrap.css HTTP/1.1" 304 0
+124.63.192.180 - - [15/Aug/2016 23:53:14] "GET /static/js/jquery-1.11.1.js HTTP/1.1" 304 0
+124.63.192.180 - - [15/Aug/2016 23:53:14] "GET /assets/img/user.png HTTP/1.1" 404 797
+124.63.192.180 - - [15/Aug/2016 23:53:14] "GET /static/css/bootstrap.css.map HTTP/1.1" 404 783
+INFO:root:['__doc__', '__init__', '__iter__', '__module__', 'buf', 'buflist', 'close', 'closed', 'flush', 'getvalue', 'isatty', 'len', 'next', 'pos', 'read', 'readline', 'readlines', 'seek', 'softspace', 'tell', 'truncate', 'write', 'writelines']
+INFO:root:
+INFO:root:ÌïúÍ∏Ä
+124.63.192.180 - - [15/Aug/2016 23:53:16] "POST /tweet HTTP/1.1" 303 0
+124.63.192.180 - - [15/Aug/2016 23:53:16] "GET /tweet HTTP/1.1" 200 6985
+Signal handler called with signal 15
+ERROR:root:table "user" already exists
+Bottle v0.12.9 server starting up (using WSGIRefServer())...
+Listening on http://0.0.0.0:80/
+Hit Ctrl-C to quit.
+
+124.63.192.180 - - [15/Aug/2016 23:55:49] "GET /tweet HTTP/1.1" 200 7023
+124.63.192.180 - - [15/Aug/2016 23:55:49] "GET /static/js/jquery-1.11.1.js HTTP/1.1" 304 0
+124.63.192.180 - - [15/Aug/2016 23:55:49] "GET /static/css/bootstrap.css HTTP/1.1" 304 0
+124.63.192.180 - - [15/Aug/2016 23:55:49] "GET /static/css/style.css HTTP/1.1" 304 0
+124.63.192.180 - - [15/Aug/2016 23:55:49] "GET /static/css/font-awesome.css HTTP/1.1" 304 0
+124.63.192.180 - - [15/Aug/2016 23:55:49] "GET /static/js/bootstrap.js HTTP/1.1" 304 0
+124.63.192.180 - - [15/Aug/2016 23:55:49] "GET /assets/img/user.png HTTP/1.1" 404 797
+124.63.192.180 - - [15/Aug/2016 23:55:49] "GET /static/css/bootstrap.css.map HTTP/1.1" 404 783
+INFO:root:['__doc__', '__init__', '__iter__', '__module__', 'buf', 'buflist', 'close', 'closed', 'flush', 'getvalue', 'isatty', 'len', 'next', 'pos', 'read', 'readline', 'readlines', 'seek', 'softspace', 'tell', 'truncate', 'write', 'writelines']
+INFO:root:
+INFO:root:ÌïúÍ∏Ä
+124.63.192.180 - - [15/Aug/2016 23:55:56] "POST /tweet HTTP/1.1" 303 0
+124.63.192.180 - - [15/Aug/2016 23:55:56] "GET /tweet HTTP/1.1" 200 7351
+Signal handler called with signal 15
+ERROR:root:table "user" already exists
+Bottle v0.12.9 server starting up (using WSGIRefServer())...
+Listening on http://0.0.0.0:80/
+Hit Ctrl-C to quit.
+
+124.63.192.180 - - [15/Aug/2016 23:56:29] "GET /tweet HTTP/1.1" 200 7357
+124.63.192.180 - - [15/Aug/2016 23:56:29] "GET /static/css/bootstrap.css HTTP/1.1" 304 0
+124.63.192.180 - - [15/Aug/2016 23:56:29] "GET /static/css/font-awesome.css HTTP/1.1" 304 0
+124.63.192.180 - - [15/Aug/2016 23:56:29] "GET /static/js/bootstrap.js HTTP/1.1" 304 0
+124.63.192.180 - - [15/Aug/2016 23:56:29] "GET /static/css/style.css HTTP/1.1" 304 0
+124.63.192.180 - - [15/Aug/2016 23:56:29] "GET /static/js/jquery-1.11.1.js HTTP/1.1" 304 0
+124.63.192.180 - - [15/Aug/2016 23:56:29] "GET /assets/img/user.png HTTP/1.1" 404 797
+124.63.192.180 - - [15/Aug/2016 23:56:29] "GET /static/css/bootstrap.css.map HTTP/1.1" 404 783
+INFO:root:['__doc__', '__init__', '__iter__', '__module__', 'buf', 'buflist', 'close', 'closed', 'flush', 'getvalue', 'isatty', 'len', 'next', 'pos', 'read', 'readline', 'readlines', 'seek', 'softspace', 'tell', 'truncate', 'write', 'writelines']
+INFO:root:
+INFO:root:ÌïúÍ∏Ä
+124.63.192.180 - - [15/Aug/2016 23:56:31] "POST /tweet HTTP/1.1" 200 0
+INFO:root:['__doc__', '__init__', '__iter__', '__module__', 'buf', 'buflist', 'close', 'closed', 'flush', 'getvalue', 'isatty', 'len', 'next', 'pos', 'read', 'readline', 'readlines', 'seek', 'softspace', 'tell', 'truncate', 'write', 'writelines']
+INFO:root:
+INFO:root:ÌïúÍ∏Ä
+124.63.192.180 - - [15/Aug/2016 23:56:35] "POST /tweet HTTP/1.1" 200 0
+Signal handler called with signal 15
+ERROR:root:table "user" already exists
+Bottle v0.12.9 server starting up (using WSGIRefServer())...
+Listening on http://0.0.0.0:80/
+Hit Ctrl-C to quit.
+
+124.63.192.180 - - [15/Aug/2016 23:56:52] "GET /tweet HTTP/1.1" 200 8019
+124.63.192.180 - - [15/Aug/2016 23:56:52] "GET /static/css/bootstrap.css HTTP/1.1" 304 0
+124.63.192.180 - - [15/Aug/2016 23:56:52] "GET /static/js/jquery-1.11.1.js HTTP/1.1" 304 0
+124.63.192.180 - - [15/Aug/2016 23:56:52] "GET /static/css/font-awesome.css HTTP/1.1" 304 0
+124.63.192.180 - - [15/Aug/2016 23:56:52] "GET /static/css/style.css HTTP/1.1" 304 0
+124.63.192.180 - - [15/Aug/2016 23:56:52] "GET /static/js/bootstrap.js HTTP/1.1" 304 0
+124.63.192.180 - - [15/Aug/2016 23:56:52] "GET /assets/img/user.png HTTP/1.1" 404 797
+124.63.192.180 - - [15/Aug/2016 23:56:52] "GET /static/css/bootstrap.css.map HTTP/1.1" 404 783
+INFO:root:['__doc__', '__init__', '__iter__', '__module__', 'buf', 'buflist', 'close', 'closed', 'flush', 'getvalue', 'isatty', 'len', 'next', 'pos', 'read', 'readline', 'readlines', 'seek', 'softspace', 'tell', 'truncate', 'write', 'writelines']
+INFO:root:message=%E3%85%87%E3%85%87%E3%85%87%E3%85%87
+INFO:root:ÌïúÍ∏Ä
+124.63.192.180 - - [15/Aug/2016 23:56:54] "POST /tweet HTTP/1.1" 200 0
+Signal handler called with signal 15
+ERROR:root:table "user" already exists
+Bottle v0.12.9 server starting up (using WSGIRefServer())...
+Listening on http://0.0.0.0:80/
+Hit Ctrl-C to quit.
+
+124.63.192.180 - - [16/Aug/2016 00:02:13] "GET /tweet HTTP/1.1" 200 8414
+124.63.192.180 - - [16/Aug/2016 00:02:13] "GET /static/css/font-awesome.css HTTP/1.1" 304 0
+124.63.192.180 - - [16/Aug/2016 00:02:13] "GET /static/css/style.css HTTP/1.1" 304 0
+124.63.192.180 - - [16/Aug/2016 00:02:13] "GET /static/js/bootstrap.js HTTP/1.1" 304 0
+124.63.192.180 - - [16/Aug/2016 00:02:13] "GET /static/css/bootstrap.css HTTP/1.1" 304 0
+124.63.192.180 - - [16/Aug/2016 00:02:13] "GET /static/js/jquery-1.11.1.js HTTP/1.1" 304 0
+124.63.192.180 - - [16/Aug/2016 00:02:13] "GET /assets/img/user.png HTTP/1.1" 404 797
+124.63.192.180 - - [16/Aug/2016 00:02:14] "GET /static/css/bootstrap.css.map HTTP/1.1" 404 783
+INFO:root:['__doc__', '__init__', '__iter__', '__module__', 'buf', 'buflist', 'close', 'closed', 'flush', 'getvalue', 'isatty', 'len', 'next', 'pos', 'read', 'readline', 'readlines', 'seek', 'softspace', 'tell', 'truncate', 'write', 'writelines']
+INFO:root:message=%E3%85%87%E3%85%87%E3%85%87
+INFO:root:ÌïúÍ∏Ä
+124.63.192.180 - - [16/Aug/2016 00:02:15] "POST /tweet HTTP/1.1" 200 0
+INFO:root:['__doc__', '__init__', '__iter__', '__module__', 'buf', 'buflist', 'close', 'closed', 'flush', 'getvalue', 'isatty', 'len', 'next', 'pos', 'read', 'readline', 'readlines', 'seek', 'softspace', 'tell', 'truncate', 'write', 'writelines']
+INFO:root:message=%E3%85%87%E3%85%87%E3%85%87
+INFO:root:ÌïúÍ∏Ä
+124.63.192.180 - - [16/Aug/2016 00:03:16] "POST /tweet HTTP/1.1" 200 0
+INFO:root:['__doc__', '__init__', '__iter__', '__module__', 'buf', 'buflist', 'close', 'closed', 'flush', 'getvalue', 'isatty', 'len', 'next', 'pos', 'read', 'readline', 'readlines', 'seek', 'softspace', 'tell', 'truncate', 'write', 'writelines']
+INFO:root:message=DDDD
+INFO:root:ÌïúÍ∏Ä
+124.63.192.180 - - [16/Aug/2016 00:03:20] "POST /tweet HTTP/1.1" 200 0
+124.63.192.180 - - [16/Aug/2016 00:03:23] "GET /tweet HTTP/1.1" 200 9480
+124.63.192.180 - - [16/Aug/2016 00:03:24] "GET /static/css/style.css HTTP/1.1" 304 0
+124.63.192.180 - - [16/Aug/2016 00:03:24] "GET /static/css/bootstrap.css HTTP/1.1" 304 0
+124.63.192.180 - - [16/Aug/2016 00:03:24] "GET /static/css/font-awesome.css HTTP/1.1" 304 0
+124.63.192.180 - - [16/Aug/2016 00:03:24] "GET /static/js/jquery-1.11.1.js HTTP/1.1" 304 0
+124.63.192.180 - - [16/Aug/2016 00:03:24] "GET /static/js/bootstrap.js HTTP/1.1" 304 0
+124.63.192.180 - - [16/Aug/2016 00:03:24] "GET /assets/img/user.png HTTP/1.1" 404 797
+124.63.192.180 - - [16/Aug/2016 00:03:24] "GET /static/css/bootstrap.css.map HTTP/1.1" 404 783
+Signal handler called with signal 15
+ERROR:root:table "user" already exists
+Bottle v0.12.9 server starting up (using WSGIRefServer())...
+Listening on http://0.0.0.0:80/
+Hit Ctrl-C to quit.
+
+124.63.192.180 - - [16/Aug/2016 00:04:51] "GET /tweet HTTP/1.1" 200 9480
+124.63.192.180 - - [16/Aug/2016 00:04:51] "GET /static/css/style.css HTTP/1.1" 304 0
+124.63.192.180 - - [16/Aug/2016 00:04:51] "GET /static/css/font-awesome.css HTTP/1.1" 304 0
+124.63.192.180 - - [16/Aug/2016 00:04:51] "GET /static/css/bootstrap.css HTTP/1.1" 304 0
+124.63.192.180 - - [16/Aug/2016 00:04:51] "GET /static/js/jquery-1.11.1.js HTTP/1.1" 304 0
+124.63.192.180 - - [16/Aug/2016 00:04:51] "GET /static/js/bootstrap.js HTTP/1.1" 304 0
+124.63.192.180 - - [16/Aug/2016 00:04:51] "GET /assets/img/user.png HTTP/1.1" 404 797
+124.63.192.180 - - [16/Aug/2016 00:04:52] "GET /static/css/bootstrap.css.map HTTP/1.1" 404 783
+INFO:root:['__doc__', '__init__', '__iter__', '__module__', 'buf', 'buflist', 'close', 'closed', 'flush', 'getvalue', 'isatty', 'len', 'next', 'pos', 'read', 'readline', 'readlines', 'seek', 'softspace', 'tell', 'truncate', 'write', 'writelines']
+INFO:root:message=%E3%85%87%E3%85%87%E3%85%87%E3%85%87%E3%85%87
+INFO:root:ÌïúÍ∏Ä
+124.63.192.180 - - [16/Aug/2016 00:04:55] "POST /tweet HTTP/1.1" 200 0
+52.64.206.96 - - [16/Aug/2016 00:26:24] "GET /manager/html HTTP/1.1" 404 745
+Signal handler called with signal 15
+ERROR:root:table "user" already exists
+Bottle v0.12.9 server starting up (using WSGIRefServer())...
+Listening on http://0.0.0.0:80/
+Hit Ctrl-C to quit.
+
+124.63.192.180 - - [16/Aug/2016 00:26:27] "GET /tweet HTTP/1.1" 200 9861
+124.63.192.180 - - [16/Aug/2016 00:26:27] "GET /static/css/bootstrap.css HTTP/1.1" 304 0
+124.63.192.180 - - [16/Aug/2016 00:26:27] "GET /static/css/font-awesome.css HTTP/1.1" 304 0
+124.63.192.180 - - [16/Aug/2016 00:26:27] "GET /static/css/style.css HTTP/1.1" 304 0
+124.63.192.180 - - [16/Aug/2016 00:26:28] "GET /static/js/jquery-1.11.1.js HTTP/1.1" 304 0
+124.63.192.180 - - [16/Aug/2016 00:26:28] "GET /static/js/bootstrap.js HTTP/1.1" 304 0
+124.63.192.180 - - [16/Aug/2016 00:26:28] "GET /assets/img/user.png HTTP/1.1" 404 797
+124.63.192.180 - - [16/Aug/2016 00:26:28] "GET /static/fonts/fontawesome-webfont.woff?v=4.2.0 HTTP/1.1" 304 0
+124.63.192.180 - - [16/Aug/2016 00:26:28] "GET /static/css/bootstrap.css.map HTTP/1.1" 404 783
+INFO:root:['__doc__', '__init__', '__iter__', '__module__', 'buf', 'buflist', 'close', 'closed', 'flush', 'getvalue', 'isatty', 'len', 'next', 'pos', 'read', 'readline', 'readlines', 'seek', 'softspace', 'tell', 'truncate', 'write', 'writelines']
+124.63.192.180 - - [16/Aug/2016 00:26:31] "POST /tweet HTTP/1.1" 200 0
+124.63.192.180 - - [16/Aug/2016 00:26:34] "GET /tweet HTTP/1.1" 200 10209
+124.63.192.180 - - [16/Aug/2016 00:26:34] "GET /static/css/bootstrap.css HTTP/1.1" 304 0
+124.63.192.180 - - [16/Aug/2016 00:26:34] "GET /static/css/font-awesome.css HTTP/1.1" 304 0
+124.63.192.180 - - [16/Aug/2016 00:26:34] "GET /static/css/style.css HTTP/1.1" 304 0
+124.63.192.180 - - [16/Aug/2016 00:26:34] "GET /static/js/bootstrap.js HTTP/1.1" 304 0
+124.63.192.180 - - [16/Aug/2016 00:26:34] "GET /static/js/jquery-1.11.1.js HTTP/1.1" 304 0
+124.63.192.180 - - [16/Aug/2016 00:26:34] "GET /assets/img/user.png HTTP/1.1" 404 797
+124.63.192.180 - - [16/Aug/2016 00:26:34] "GET /static/css/bootstrap.css.map HTTP/1.1" 404 783
+Signal handler called with signal 15
+ERROR:root:table "user" already exists
+Bottle v0.12.9 server starting up (using WSGIRefServer())...
+Listening on http://0.0.0.0:80/
+Hit Ctrl-C to quit.
+
+124.63.192.180 - - [16/Aug/2016 00:27:47] "GET /tweet HTTP/1.1" 200 10224
+124.63.192.180 - - [16/Aug/2016 00:27:47] "GET /static/js/bootstrap.js HTTP/1.1" 304 0
+124.63.192.180 - - [16/Aug/2016 00:27:47] "GET /static/js/jquery-1.11.1.js HTTP/1.1" 304 0
+124.63.192.180 - - [16/Aug/2016 00:27:47] "GET /static/css/font-awesome.css HTTP/1.1" 304 0
+124.63.192.180 - - [16/Aug/2016 00:27:47] "GET /static/css/bootstrap.css HTTP/1.1" 304 0
+124.63.192.180 - - [16/Aug/2016 00:27:47] "GET /static/css/style.css HTTP/1.1" 304 0
+124.63.192.180 - - [16/Aug/2016 00:27:47] "GET /static/css/bootstrap.css.map HTTP/1.1" 404 783
+Signal handler called with signal 15
+ERROR:root:table "user" already exists
+Bottle v0.12.9 server starting up (using WSGIRefServer())...
+Listening on http://0.0.0.0:80/
+Hit Ctrl-C to quit.
+
+124.63.192.180 - - [16/Aug/2016 00:32:33] "GET /tweet HTTP/1.1" 200 10071
+124.63.192.180 - - [16/Aug/2016 00:32:33] "GET /static/css/font-awesome.css HTTP/1.1" 304 0
+124.63.192.180 - - [16/Aug/2016 00:32:33] "GET /static/js/jquery-1.11.1.js HTTP/1.1" 304 0
+124.63.192.180 - - [16/Aug/2016 00:32:33] "GET /static/css/bootstrap.css HTTP/1.1" 304 0
+124.63.192.180 - - [16/Aug/2016 00:32:33] "GET /static/css/style.css HTTP/1.1" 200 3522
+124.63.192.180 - - [16/Aug/2016 00:32:33] "GET /static/js/bootstrap.js HTTP/1.1" 304 0
+124.63.192.180 - - [16/Aug/2016 00:32:33] "GET /static/css/bootstrap.css.map HTTP/1.1" 404 783
+Signal handler called with signal 15
+ERROR:root:table "user" already exists
+Bottle v0.12.9 server starting up (using WSGIRefServer())...
+Listening on http://0.0.0.0:80/
+Hit Ctrl-C to quit.
+
+124.63.192.180 - - [16/Aug/2016 00:34:07] "GET /tweet HTTP/1.1" 200 10462
+124.63.192.180 - - [16/Aug/2016 00:34:07] "GET /static/css/bootstrap.css HTTP/1.1" 304 0
+124.63.192.180 - - [16/Aug/2016 00:34:07] "GET /static/css/style.css HTTP/1.1" 200 3522
+124.63.192.180 - - [16/Aug/2016 00:34:07] "GET /static/css/font-awesome.css HTTP/1.1" 304 0
+124.63.192.180 - - [16/Aug/2016 00:34:07] "GET /static/js/bootstrap.js HTTP/1.1" 304 0
+124.63.192.180 - - [16/Aug/2016 00:34:07] "GET /static/js/jquery-1.11.1.js HTTP/1.1" 304 0
+124.63.192.180 - - [16/Aug/2016 00:34:07] "GET /static/css/bootstrap.css.map HTTP/1.1" 404 783
+Signal handler called with signal 15
+ERROR:root:table "user" already exists
+Bottle v0.12.9 server starting up (using WSGIRefServer())...
+Listening on http://0.0.0.0:80/
+Hit Ctrl-C to quit.
+
+124.63.192.180 - - [16/Aug/2016 00:34:38] "GET /tweet HTTP/1.1" 200 10972
+124.63.192.180 - - [16/Aug/2016 00:34:38] "GET /static/css/bootstrap.css HTTP/1.1" 304 0
+124.63.192.180 - - [16/Aug/2016 00:34:38] "GET /static/js/bootstrap.js HTTP/1.1" 304 0
+124.63.192.180 - - [16/Aug/2016 00:34:38] "GET /static/css/font-awesome.css HTTP/1.1" 304 0
+124.63.192.180 - - [16/Aug/2016 00:34:38] "GET /static/js/jquery-1.11.1.js HTTP/1.1" 304 0
+124.63.192.180 - - [16/Aug/2016 00:34:38] "GET /static/css/style.css HTTP/1.1" 304 0
+124.63.192.180 - - [16/Aug/2016 00:34:38] "GET /static/css/bootstrap.css.map HTTP/1.1" 404 783
+Signal handler called with signal 15
+ERROR:root:table "user" already exists
+Bottle v0.12.9 server starting up (using WSGIRefServer())...
+Listening on http://0.0.0.0:80/
+Hit Ctrl-C to quit.
+
+124.63.192.180 - - [16/Aug/2016 00:35:24] "GET /tweet HTTP/1.1" 200 10921
+124.63.192.180 - - [16/Aug/2016 00:35:25] "GET /static/css/bootstrap.css HTTP/1.1" 304 0
+124.63.192.180 - - [16/Aug/2016 00:35:25] "GET /static/css/font-awesome.css HTTP/1.1" 304 0
+124.63.192.180 - - [16/Aug/2016 00:35:25] "GET /static/css/style.css HTTP/1.1" 304 0
+124.63.192.180 - - [16/Aug/2016 00:35:25] "GET /static/js/bootstrap.js HTTP/1.1" 304 0
+124.63.192.180 - - [16/Aug/2016 00:35:25] "GET /static/js/jquery-1.11.1.js HTTP/1.1" 304 0
+124.63.192.180 - - [16/Aug/2016 00:35:25] "GET /static/css/bootstrap.css.map HTTP/1.1" 404 783
+Signal handler called with signal 15
+ERROR:root:table "user" already exists
+Bottle v0.12.9 server starting up (using WSGIRefServer())...
+Listening on http://0.0.0.0:80/
+Hit Ctrl-C to quit.
+
+124.63.192.180 - - [16/Aug/2016 00:36:02] "GET /tweet HTTP/1.1" 200 10309
+124.63.192.180 - - [16/Aug/2016 00:36:02] "GET /static/css/bootstrap.css HTTP/1.1" 304 0
+124.63.192.180 - - [16/Aug/2016 00:36:02] "GET /static/js/jquery-1.11.1.js HTTP/1.1" 304 0
+124.63.192.180 - - [16/Aug/2016 00:36:02] "GET /static/css/font-awesome.css HTTP/1.1" 304 0
+124.63.192.180 - - [16/Aug/2016 00:36:02] "GET /static/css/style.css HTTP/1.1" 200 3524
+124.63.192.180 - - [16/Aug/2016 00:36:02] "GET /static/js/bootstrap.js HTTP/1.1" 304 0
+124.63.192.180 - - [16/Aug/2016 00:36:02] "GET /static/css/bootstrap.css.map HTTP/1.1" 404 783
+INFO:root:['__doc__', '__init__', '__iter__', '__module__', 'buf', 'buflist', 'close', 'closed', 'flush', 'getvalue', 'isatty', 'len', 'next', 'pos', 'read', 'readline', 'readlines', 'seek', 'softspace', 'tell', 'truncate', 'write', 'writelines']
+124.63.192.180 - - [16/Aug/2016 00:36:27] "POST /tweet HTTP/1.1" 303 0
+124.63.192.180 - - [16/Aug/2016 00:36:27] "GET /tweet HTTP/1.1" 200 10654
+124.63.192.180 - - [16/Aug/2016 00:36:28] "GET /tweet HTTP/1.1" 200 10654
+124.63.192.180 - - [16/Aug/2016 00:36:28] "GET /static/css/bootstrap.css HTTP/1.1" 304 0
+124.63.192.180 - - [16/Aug/2016 00:36:28] "GET /static/css/font-awesome.css HTTP/1.1" 304 0
+124.63.192.180 - - [16/Aug/2016 00:36:28] "GET /static/js/bootstrap.js HTTP/1.1" 304 0
+124.63.192.180 - - [16/Aug/2016 00:36:28] "GET /static/css/style.css HTTP/1.1" 304 0
+124.63.192.180 - - [16/Aug/2016 00:36:28] "GET /static/js/jquery-1.11.1.js HTTP/1.1" 304 0
+124.63.192.180 - - [16/Aug/2016 00:36:28] "GET /static/css/bootstrap.css.map HTTP/1.1" 404 783
+124.63.192.180 - - [16/Aug/2016 00:37:34] "GET /tweet HTTP/1.1" 200 10654
+124.63.192.180 - - [16/Aug/2016 00:37:34] "GET /static/css/style.css HTTP/1.1" 304 0
+124.63.192.180 - - [16/Aug/2016 00:37:34] "GET /static/css/bootstrap.css HTTP/1.1" 304 0
+124.63.192.180 - - [16/Aug/2016 00:37:34] "GET /static/css/font-awesome.css HTTP/1.1" 304 0
+124.63.192.180 - - [16/Aug/2016 00:37:34] "GET /static/js/bootstrap.js HTTP/1.1" 304 0
+124.63.192.180 - - [16/Aug/2016 00:37:34] "GET /static/js/jquery-1.11.1.js HTTP/1.1" 304 0
+124.63.192.180 - - [16/Aug/2016 00:37:34] "GET /static/css/bootstrap.css.map HTTP/1.1" 404 783
+66.102.7.131 - - [16/Aug/2016 01:10:07] "GET /tweet HTTP/1.1" 200 10654
+66.102.7.135 - - [16/Aug/2016 01:10:08] "GET /favicon.ico HTTP/1.1" 404 781
+173.227.0.76 - - [16/Aug/2016 08:26:42] "GET /invoker/JMXInvokerServlet HTTP/1.1" 404 768
+61.157.96.193 - - [16/Aug/2016 14:54:16] "GET http://123.249.29.201:43210/?rands=_2238337241618634325174136 HTTP/1.1" 404 818
+61.157.96.193 - - [16/Aug/2016 14:54:17] "GET http://50.117.47.67:43530/?rands=_5988108228824916505024480 HTTP/1.1" 404 812
+104.155.202.132 - - [16/Aug/2016 15:20:09] "GET /xmlrpc.php HTTP/1.1" 404 738
+58.221.46.206 - - [16/Aug/2016 16:06:17] "GET /phpMyAdmin HTTP/1.1" 404 738
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 862, in _handle
+    return route.call(**args)
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 1732, in wrapper
+    rv = callback(*a, **ka)
+  File "/home/ubuntu/apps/dx_line/dx_line.py", line 39, in main
+    return template('main')
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 3609, in template
+    return TEMPLATES[tplid].render(kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 3399, in render
+    self.execute(stdout, env)
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 3386, in execute
+    eval(self.co, env)
+  File "/home/ubuntu/apps/dx_line/views/main.tpl", line 47, in <module>
+    %for tweet in tweets:
+NameError: name 'tweets' is not defined
+185.93.185.10 - - [16/Aug/2016 18:10:48] "GET / HTTP/1.1" 500 739
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 862, in _handle
+    return route.call(**args)
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 1732, in wrapper
+    rv = callback(*a, **ka)
+  File "/home/ubuntu/apps/dx_line/dx_line.py", line 39, in main
+    return template('main')
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 3609, in template
+    return TEMPLATES[tplid].render(kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 3399, in render
+    self.execute(stdout, env)
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 3386, in execute
+    eval(self.co, env)
+  File "/home/ubuntu/apps/dx_line/views/main.tpl", line 47, in <module>
+    %for tweet in tweets:
+NameError: name 'tweets' is not defined
+52.67.117.31 - - [16/Aug/2016 19:06:38] "GET / HTTP/1.1" 500 739
+61.157.96.193 - - [16/Aug/2016 21:15:58] "GET http://50.117.47.67:43530/?rands=_45723266606816222680117668008 HTTP/1.1" 404 816
+61.157.96.193 - - [16/Aug/2016 21:15:58] "GET http://50.117.86.106/?rands=_1478018087882968686785856 HTTP/1.1" 404 795
+61.157.96.193 - - [16/Aug/2016 21:15:58] "GET http://123.249.29.201:43210/?rands=_195844889763484080166704 HTTP/1.1" 404 817
+95.213.177.125 - - [16/Aug/2016 22:49:40] "POST http://check.proxyradar.com/azenv.php?auth=147135540637&a=PSCMN&i=877537254&p=80 HTTP/1.1" 404 856
+66.249.84.219 - - [16/Aug/2016 23:23:53] "GET /tweet HTTP/1.1" 200 10654
+66.249.84.215 - - [16/Aug/2016 23:23:54] "GET /favicon.ico HTTP/1.1" 404 781
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 862, in _handle
+    return route.call(**args)
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 1732, in wrapper
+    rv = callback(*a, **ka)
+  File "/home/ubuntu/apps/dx_line/dx_line.py", line 39, in main
+    return template('main')
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 3609, in template
+    return TEMPLATES[tplid].render(kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 3399, in render
+    self.execute(stdout, env)
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 3386, in execute
+    eval(self.co, env)
+  File "/home/ubuntu/apps/dx_line/views/main.tpl", line 47, in <module>
+    %for tweet in tweets:
+NameError: name 'tweets' is not defined
+124.63.192.180 - - [17/Aug/2016 01:34:09] "GET / HTTP/1.1" 500 780
+124.63.192.180 - - [17/Aug/2016 01:34:09] "GET /favicon.ico HTTP/1.1" 404 781
+124.63.192.180 - - [17/Aug/2016 01:34:14] "GET /tweet HTTP/1.1" 200 10654
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 862, in _handle
+    return route.call(**args)
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 1732, in wrapper
+    rv = callback(*a, **ka)
+  File "/home/ubuntu/apps/dx_line/dx_line.py", line 39, in main
+    return template('main')
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 3609, in template
+    return TEMPLATES[tplid].render(kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 3399, in render
+    self.execute(stdout, env)
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 3386, in execute
+    eval(self.co, env)
+  File "/home/ubuntu/apps/dx_line/views/main.tpl", line 47, in <module>
+    %for tweet in tweets:
+NameError: name 'tweets' is not defined
+124.63.192.180 - - [17/Aug/2016 01:34:14] "GET / HTTP/1.1" 500 780
+124.63.192.180 - - [17/Aug/2016 01:34:34] "GET /static/css/style.css HTTP/1.1" 304 0
+124.63.192.180 - - [17/Aug/2016 01:34:35] "GET /static/fonts/fontawesome-webfont.woff?v=4.2.0 HTTP/1.1" 200 65452
+52.91.184.228 - - [17/Aug/2016 01:35:53] "GET /tweet HTTP/1.1" 200 10654
+54.89.92.4 - - [17/Aug/2016 01:35:54] "GET /favicon.ico HTTP/1.1" 404 781
+124.63.192.180 - - [17/Aug/2016 02:21:31] "GET /tweet HTTP/1.1" 200 10654
+124.63.192.180 - - [17/Aug/2016 02:21:31] "GET /tweet HTTP/1.1" 200 10654
+124.63.192.180 - - [17/Aug/2016 02:21:32] "GET /apple-touch-icon-120x120-precomposed.png HTTP/1.1" 404 839
+124.63.192.180 - - [17/Aug/2016 02:21:32] "GET /static/css/font-awesome.css HTTP/1.1" 200 26651
+124.63.192.180 - - [17/Aug/2016 02:21:32] "GET /static/css/style.css HTTP/1.1" 200 3524
+124.63.192.180 - - [17/Aug/2016 02:21:32] "GET /static/css/bootstrap.css HTTP/1.1" 200 137067
+124.63.192.180 - - [17/Aug/2016 02:21:32] "GET /static/js/jquery-1.11.1.js HTTP/1.1" 200 282766
+124.63.192.180 - - [17/Aug/2016 02:21:32] "GET /static/js/bootstrap.js HTTP/1.1" 200 67155
+124.63.192.180 - - [17/Aug/2016 02:21:32] "GET /apple-touch-icon-120x120.png HTTP/1.1" 404 815
+124.63.192.180 - - [17/Aug/2016 02:21:32] "GET /static/fonts/fontawesome-webfont.woff?v=4.2.0 HTTP/1.1" 200 65452
+124.63.192.180 - - [17/Aug/2016 02:21:32] "GET /apple-touch-icon.png HTTP/1.1" 404 799
+124.63.192.180 - - [17/Aug/2016 02:21:32] "GET /apple-touch-icon.png HTTP/1.1" 404 799
+124.63.192.180 - - [17/Aug/2016 02:21:32] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 823
+124.63.192.180 - - [17/Aug/2016 02:21:33] "GET /favicon.ico HTTP/1.1" 404 781
+191.96.249.42 - - [17/Aug/2016 02:25:40] "GET /admin/config.php HTTP/1.0" 404 783
+72.12.204.170 - - [17/Aug/2016 02:47:44] "GET /tweet HTTP/1.1" 200 10654
+72.12.204.170 - - [17/Aug/2016 02:47:44] "GET /tweet HTTP/1.1" 200 10654
+72.12.204.170 - - [17/Aug/2016 02:47:45] "GET /static/css/style.css HTTP/1.1" 200 3524
+72.12.204.170 - - [17/Aug/2016 02:47:45] "GET /static/css/font-awesome.css HTTP/1.1" 200 26651
+72.12.204.170 - - [17/Aug/2016 02:47:45] "GET /static/css/bootstrap.css HTTP/1.1" 200 137067
+72.12.204.170 - - [17/Aug/2016 02:47:46] "GET /static/js/jquery-1.11.1.js HTTP/1.1" 200 282766
+72.12.204.170 - - [17/Aug/2016 02:47:46] "GET /static/js/bootstrap.js HTTP/1.1" 200 67155
+72.12.204.170 - - [17/Aug/2016 02:47:48] "GET /static/fonts/fontawesome-webfont.woff?v=4.2.0 HTTP/1.1" 200 65452
+72.12.204.170 - - [17/Aug/2016 02:47:49] "GET /favicon.ico HTTP/1.1" 404 781
+INFO:root:['__doc__', '__init__', '__iter__', '__module__', 'buf', 'buflist', 'close', 'closed', 'flush', 'getvalue', 'isatty', 'len', 'next', 'pos', 'read', 'readline', 'readlines', 'seek', 'softspace', 'tell', 'truncate', 'write', 'writelines']
+72.12.204.170 - - [17/Aug/2016 02:48:04] "POST /tweet HTTP/1.1" 303 0
+72.12.204.170 - - [17/Aug/2016 02:48:04] "GET /tweet HTTP/1.1" 200 11001
+INFO:root:['__doc__', '__init__', '__iter__', '__module__', 'buf', 'buflist', 'close', 'closed', 'flush', 'getvalue', 'isatty', 'len', 'next', 'pos', 'read', 'readline', 'readlines', 'seek', 'softspace', 'tell', 'truncate', 'write', 'writelines']
+72.12.204.170 - - [17/Aug/2016 02:48:04] "POST /tweet HTTP/1.1" 303 0
+72.12.204.170 - - [17/Aug/2016 02:48:05] "GET /tweet HTTP/1.1" 200 11348
+INFO:root:['__doc__', '__init__', '__iter__', '__module__', 'buf', 'buflist', 'close', 'closed', 'flush', 'getvalue', 'isatty', 'len', 'next', 'pos', 'read', 'readline', 'readlines', 'seek', 'softspace', 'tell', 'truncate', 'write', 'writelines']
+72.12.204.170 - - [17/Aug/2016 02:48:07] "POST /tweet HTTP/1.1" 303 0
+72.12.204.170 - - [17/Aug/2016 02:48:07] "GET /tweet HTTP/1.1" 200 11695
+INFO:root:['__doc__', '__init__', '__iter__', '__module__', 'buf', 'buflist', 'close', 'closed', 'flush', 'getvalue', 'isatty', 'len', 'next', 'pos', 'read', 'readline', 'readlines', 'seek', 'softspace', 'tell', 'truncate', 'write', 'writelines']
+72.12.204.170 - - [17/Aug/2016 02:48:10] "POST /tweet HTTP/1.1" 303 0
+72.12.204.170 - - [17/Aug/2016 02:48:11] "GET /tweet HTTP/1.1" 200 12042
+INFO:root:['__doc__', '__init__', '__iter__', '__module__', 'buf', 'buflist', 'close', 'closed', 'flush', 'getvalue', 'isatty', 'len', 'next', 'pos', 'read', 'readline', 'readlines', 'seek', 'softspace', 'tell', 'truncate', 'write', 'writelines']
+72.12.204.170 - - [17/Aug/2016 02:48:18] "POST /tweet HTTP/1.1" 303 0
+72.12.204.170 - - [17/Aug/2016 02:48:19] "GET /tweet HTTP/1.1" 200 12386
+INFO:root:['__doc__', '__init__', '__iter__', '__module__', 'buf', 'buflist', 'close', 'closed', 'flush', 'getvalue', 'isatty', 'len', 'next', 'pos', 'read', 'readline', 'readlines', 'seek', 'softspace', 'tell', 'truncate', 'write', 'writelines']
+72.12.204.170 - - [17/Aug/2016 02:48:20] "POST /tweet HTTP/1.1" 303 0
+72.12.204.170 - - [17/Aug/2016 02:48:20] "GET /tweet HTTP/1.1" 200 12730
+72.12.204.170 - - [17/Aug/2016 02:48:52] "GET /tweet HTTP/1.1" 200 12730
+61.157.96.193 - - [17/Aug/2016 05:41:38] "GET http://50.117.47.67:43530/?rands=_49982119201764396505260 HTTP/1.1" 404 810
+61.157.96.193 - - [17/Aug/2016 05:41:38] "GET http://123.249.29.201:43210/?rands=_1514715138567612081233572 HTTP/1.1" 404 818
+61.157.96.193 - - [17/Aug/2016 05:41:39] "GET http://50.117.86.106/?rands=_5049108228830123453367980 HTTP/1.1" 404 795
+95.213.177.124 - - [17/Aug/2016 06:15:59] "POST http://check.proxyradar.com/azenv.php?auth=147138218545&a=PSCMN&i=877537254&p=80 HTTP/1.1" 404 856
+175.223.16.227 - - [17/Aug/2016 06:38:30] "GET /tweet HTTP/1.1" 200 12730
+175.223.16.227 - - [17/Aug/2016 06:38:31] "GET /static/css/bootstrap.css HTTP/1.1" 200 137067
+175.223.16.227 - - [17/Aug/2016 06:38:31] "GET /static/css/style.css HTTP/1.1" 200 3524
+175.223.16.227 - - [17/Aug/2016 06:38:31] "GET /static/css/font-awesome.css HTTP/1.1" 200 26651
+175.223.16.227 - - [17/Aug/2016 06:38:31] "GET /static/js/bootstrap.js HTTP/1.1" 200 67155
+175.223.16.227 - - [17/Aug/2016 06:38:31] "GET /static/js/jquery-1.11.1.js HTTP/1.1" 200 282766
+175.223.16.227 - - [17/Aug/2016 06:38:31] "GET /static/fonts/fontawesome-webfont.woff?v=4.2.0 HTTP/1.1" 200 65452
+14.138.197.99 - - [17/Aug/2016 08:11:54] "GET /tweet HTTP/1.1" 200 12730
+14.138.197.99 - - [17/Aug/2016 08:11:54] "GET /static/css/bootstrap.css HTTP/1.1" 200 137067
+14.138.197.99 - - [17/Aug/2016 08:11:54] "GET /static/js/bootstrap.js HTTP/1.1" 200 67155
+14.138.197.99 - - [17/Aug/2016 08:11:54] "GET /static/css/style.css HTTP/1.1" 200 3524
+14.138.197.99 - - [17/Aug/2016 08:11:54] "GET /static/css/font-awesome.css HTTP/1.1" 200 26651
+14.138.197.99 - - [17/Aug/2016 08:11:54] "GET /static/js/jquery-1.11.1.js HTTP/1.1" 200 282766
+14.138.197.99 - - [17/Aug/2016 08:11:54] "GET /static/fonts/fontawesome-webfont.woff?v=4.2.0 HTTP/1.1" 200 65452
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 862, in _handle
+    return route.call(**args)
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 1732, in wrapper
+    rv = callback(*a, **ka)
+  File "/home/ubuntu/apps/dx_line/dx_line.py", line 39, in main
+    return template('main')
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 3609, in template
+    return TEMPLATES[tplid].render(kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 3399, in render
+    self.execute(stdout, env)
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 3386, in execute
+    eval(self.co, env)
+  File "/home/ubuntu/apps/dx_line/views/main.tpl", line 47, in <module>
+    %for tweet in tweets:
+NameError: name 'tweets' is not defined
+185.93.185.10 - - [17/Aug/2016 08:13:19] "GET / HTTP/1.1" 500 739
+INFO:root:['__doc__', '__init__', '__iter__', '__module__', 'buf', 'buflist', 'close', 'closed', 'flush', 'getvalue', 'isatty', 'len', 'next', 'pos', 'read', 'readline', 'readlines', 'seek', 'softspace', 'tell', 'truncate', 'write', 'writelines']
+223.62.212.77 - - [17/Aug/2016 08:53:43] "POST /tweet HTTP/1.1" 303 0
+223.62.212.77 - - [17/Aug/2016 08:53:43] "GET /tweet HTTP/1.1" 200 13077
+INFO:root:['__doc__', '__init__', '__iter__', '__module__', 'buf', 'buflist', 'close', 'closed', 'flush', 'getvalue', 'isatty', 'len', 'next', 'pos', 'read', 'readline', 'readlines', 'seek', 'softspace', 'tell', 'truncate', 'write', 'writelines']
+223.62.212.77 - - [17/Aug/2016 08:53:44] "POST /tweet HTTP/1.1" 303 0
+223.62.212.77 - - [17/Aug/2016 08:53:44] "GET /tweet HTTP/1.1" 200 13424
+INFO:root:['__doc__', '__init__', '__iter__', '__module__', 'buf', 'buflist', 'close', 'closed', 'flush', 'getvalue', 'isatty', 'len', 'next', 'pos', 'read', 'readline', 'readlines', 'seek', 'softspace', 'tell', 'truncate', 'write', 'writelines']
+223.62.212.77 - - [17/Aug/2016 08:53:45] "POST /tweet HTTP/1.1" 303 0
+223.62.212.77 - - [17/Aug/2016 08:53:45] "GET /tweet HTTP/1.1" 200 13771
+INFO:root:['__doc__', '__init__', '__iter__', '__module__', 'buf', 'buflist', 'close', 'closed', 'flush', 'getvalue', 'isatty', 'len', 'next', 'pos', 'read', 'readline', 'readlines', 'seek', 'softspace', 'tell', 'truncate', 'write', 'writelines']
+223.62.212.77 - - [17/Aug/2016 08:53:50] "POST /tweet HTTP/1.1" 303 0
+223.62.212.77 - - [17/Aug/2016 08:53:50] "GET /tweet HTTP/1.1" 200 14118
+INFO:root:['__doc__', '__init__', '__iter__', '__module__', 'buf', 'buflist', 'close', 'closed', 'flush', 'getvalue', 'isatty', 'len', 'next', 'pos', 'read', 'readline', 'readlines', 'seek', 'softspace', 'tell', 'truncate', 'write', 'writelines']
+223.62.212.77 - - [17/Aug/2016 08:53:51] "POST /tweet HTTP/1.1" 303 0
+223.62.212.77 - - [17/Aug/2016 08:53:51] "GET /tweet HTTP/1.1" 200 14465
+INFO:root:['__doc__', '__init__', '__iter__', '__module__', 'buf', 'buflist', 'close', 'closed', 'flush', 'getvalue', 'isatty', 'len', 'next', 'pos', 'read', 'readline', 'readlines', 'seek', 'softspace', 'tell', 'truncate', 'write', 'writelines']
+223.62.212.77 - - [17/Aug/2016 08:53:51] "POST /tweet HTTP/1.1" 303 0
+INFO:root:['__doc__', '__init__', '__iter__', '__module__', 'buf', 'buflist', 'close', 'closed', 'flush', 'getvalue', 'isatty', 'len', 'next', 'pos', 'read', 'readline', 'readlines', 'seek', 'softspace', 'tell', 'truncate', 'write', 'writelines']
+223.62.212.77 - - [17/Aug/2016 08:53:51] "POST /tweet HTTP/1.1" 303 0
+223.62.212.77 - - [17/Aug/2016 08:53:51] "GET /tweet HTTP/1.1" 200 15159
+223.62.212.77 - - [17/Aug/2016 08:53:51] "GET /tweet HTTP/1.1" 200 15159
+INFO:root:['__doc__', '__init__', '__iter__', '__module__', 'buf', 'buflist', 'close', 'closed', 'flush', 'getvalue', 'isatty', 'len', 'next', 'pos', 'read', 'readline', 'readlines', 'seek', 'softspace', 'tell', 'truncate', 'write', 'writelines']
+223.62.212.77 - - [17/Aug/2016 08:53:51] "POST /tweet HTTP/1.1" 303 0
+223.62.212.77 - - [17/Aug/2016 08:53:52] "GET /tweet HTTP/1.1" 200 15506
+INFO:root:['__doc__', '__init__', '__iter__', '__module__', 'buf', 'buflist', 'close', 'closed', 'flush', 'getvalue', 'isatty', 'len', 'next', 'pos', 'read', 'readline', 'readlines', 'seek', 'softspace', 'tell', 'truncate', 'write', 'writelines']
+223.62.212.77 - - [17/Aug/2016 08:53:52] "POST /tweet HTTP/1.1" 303 0
+223.62.212.77 - - [17/Aug/2016 08:53:52] "GET /tweet HTTP/1.1" 200 15853
+INFO:root:['__doc__', '__init__', '__iter__', '__module__', 'buf', 'buflist', 'close', 'closed', 'flush', 'getvalue', 'isatty', 'len', 'next', 'pos', 'read', 'readline', 'readlines', 'seek', 'softspace', 'tell', 'truncate', 'write', 'writelines']
+223.62.212.77 - - [17/Aug/2016 08:53:52] "POST /tweet HTTP/1.1" 303 0
+223.62.212.77 - - [17/Aug/2016 08:53:52] "GET /tweet HTTP/1.1" 200 16200
+INFO:root:['__doc__', '__init__', '__iter__', '__module__', 'buf', 'buflist', 'close', 'closed', 'flush', 'getvalue', 'isatty', 'len', 'next', 'pos', 'read', 'readline', 'readlines', 'seek', 'softspace', 'tell', 'truncate', 'write', 'writelines']
+223.62.212.77 - - [17/Aug/2016 08:53:52] "POST /tweet HTTP/1.1" 303 0
+223.62.212.77 - - [17/Aug/2016 08:53:52] "GET /tweet HTTP/1.1" 200 16547
+INFO:root:['__doc__', '__init__', '__iter__', '__module__', 'buf', 'buflist', 'close', 'closed', 'flush', 'getvalue', 'isatty', 'len', 'next', 'pos', 'read', 'readline', 'readlines', 'seek', 'softspace', 'tell', 'truncate', 'write', 'writelines']
+223.62.212.77 - - [17/Aug/2016 08:53:53] "POST /tweet HTTP/1.1" 303 0
+223.62.212.77 - - [17/Aug/2016 08:53:53] "GET /tweet HTTP/1.1" 200 16894
+INFO:root:['__doc__', '__init__', '__iter__', '__module__', 'buf', 'buflist', 'close', 'closed', 'flush', 'getvalue', 'isatty', 'len', 'next', 'pos', 'read', 'readline', 'readlines', 'seek', 'softspace', 'tell', 'truncate', 'write', 'writelines']
+223.62.212.77 - - [17/Aug/2016 08:53:53] "POST /tweet HTTP/1.1" 303 0
+223.62.212.77 - - [17/Aug/2016 08:53:53] "GET /tweet HTTP/1.1" 200 17241
+223.62.212.77 - - [17/Aug/2016 08:54:04] "GET /tweet HTTP/1.1" 200 17241
+INFO:root:['__doc__', '__init__', '__iter__', '__module__', 'buf', 'buflist', 'close', 'closed', 'flush', 'getvalue', 'isatty', 'len', 'next', 'pos', 'read', 'readline', 'readlines', 'seek', 'softspace', 'tell', 'truncate', 'write', 'writelines']
+223.62.212.77 - - [17/Aug/2016 08:54:08] "POST /tweet HTTP/1.1" 303 0
+223.62.212.77 - - [17/Aug/2016 08:54:08] "GET /tweet HTTP/1.1" 200 17588
+INFO:root:['__doc__', '__init__', '__iter__', '__module__', 'buf', 'buflist', 'close', 'closed', 'flush', 'getvalue', 'isatty', 'len', 'next', 'pos', 'read', 'readline', 'readlines', 'seek', 'softspace', 'tell', 'truncate', 'write', 'writelines']
+223.62.212.77 - - [17/Aug/2016 08:54:09] "POST /tweet HTTP/1.1" 303 0
+223.62.212.77 - - [17/Aug/2016 08:54:09] "GET /tweet HTTP/1.1" 200 17935
+INFO:root:['__doc__', '__init__', '__iter__', '__module__', 'buf', 'buflist', 'close', 'closed', 'flush', 'getvalue', 'isatty', 'len', 'next', 'pos', 'read', 'readline', 'readlines', 'seek', 'softspace', 'tell', 'truncate', 'write', 'writelines']
+223.62.212.77 - - [17/Aug/2016 08:54:10] "POST /tweet HTTP/1.1" 303 0
+223.62.212.77 - - [17/Aug/2016 08:54:10] "GET /tweet HTTP/1.1" 200 18282
+INFO:root:['__doc__', '__init__', '__iter__', '__module__', 'buf', 'buflist', 'close', 'closed', 'flush', 'getvalue', 'isatty', 'len', 'next', 'pos', 'read', 'readline', 'readlines', 'seek', 'softspace', 'tell', 'truncate', 'write', 'writelines']
+223.62.212.77 - - [17/Aug/2016 08:54:10] "POST /tweet HTTP/1.1" 303 0
+223.62.212.77 - - [17/Aug/2016 08:54:10] "GET /tweet HTTP/1.1" 200 18629
+INFO:root:['__doc__', '__init__', '__iter__', '__module__', 'buf', 'buflist', 'close', 'closed', 'flush', 'getvalue', 'isatty', 'len', 'next', 'pos', 'read', 'readline', 'readlines', 'seek', 'softspace', 'tell', 'truncate', 'write', 'writelines']
+223.62.212.77 - - [17/Aug/2016 08:54:10] "POST /tweet HTTP/1.1" 303 0
+223.62.212.77 - - [17/Aug/2016 08:54:10] "GET /tweet HTTP/1.1" 200 18976
+INFO:root:['__doc__', '__init__', '__iter__', '__module__', 'buf', 'buflist', 'close', 'closed', 'flush', 'getvalue', 'isatty', 'len', 'next', 'pos', 'read', 'readline', 'readlines', 'seek', 'softspace', 'tell', 'truncate', 'write', 'writelines']
+223.62.212.77 - - [17/Aug/2016 08:54:10] "POST /tweet HTTP/1.1" 303 0
+223.62.212.77 - - [17/Aug/2016 08:54:10] "GET /tweet HTTP/1.1" 200 19323
+INFO:root:['__doc__', '__init__', '__iter__', '__module__', 'buf', 'buflist', 'close', 'closed', 'flush', 'getvalue', 'isatty', 'len', 'next', 'pos', 'read', 'readline', 'readlines', 'seek', 'softspace', 'tell', 'truncate', 'write', 'writelines']
+223.62.212.77 - - [17/Aug/2016 08:54:10] "POST /tweet HTTP/1.1" 303 0
+223.62.212.77 - - [17/Aug/2016 08:54:11] "GET /tweet HTTP/1.1" 200 19670
+INFO:root:['__doc__', '__init__', '__iter__', '__module__', 'buf', 'buflist', 'close', 'closed', 'flush', 'getvalue', 'isatty', 'len', 'next', 'pos', 'read', 'readline', 'readlines', 'seek', 'softspace', 'tell', 'truncate', 'write', 'writelines']
+223.62.212.77 - - [17/Aug/2016 08:54:11] "POST /tweet HTTP/1.1" 303 0
+223.62.212.77 - - [17/Aug/2016 08:54:11] "GET /tweet HTTP/1.1" 200 20017
+INFO:root:['__doc__', '__init__', '__iter__', '__module__', 'buf', 'buflist', 'close', 'closed', 'flush', 'getvalue', 'isatty', 'len', 'next', 'pos', 'read', 'readline', 'readlines', 'seek', 'softspace', 'tell', 'truncate', 'write', 'writelines']
+223.62.212.77 - - [17/Aug/2016 08:54:11] "POST /tweet HTTP/1.1" 303 0
+223.62.212.77 - - [17/Aug/2016 08:54:11] "GET /tweet HTTP/1.1" 200 20364
+INFO:root:['__doc__', '__init__', '__iter__', '__module__', 'buf', 'buflist', 'close', 'closed', 'flush', 'getvalue', 'isatty', 'len', 'next', 'pos', 'read', 'readline', 'readlines', 'seek', 'softspace', 'tell', 'truncate', 'write', 'writelines']
+223.62.212.77 - - [17/Aug/2016 08:54:11] "POST /tweet HTTP/1.1" 303 0
+223.62.212.77 - - [17/Aug/2016 08:54:11] "GET /tweet HTTP/1.1" 200 20711
+INFO:root:['__doc__', '__init__', '__iter__', '__module__', 'buf', 'buflist', 'close', 'closed', 'flush', 'getvalue', 'isatty', 'len', 'next', 'pos', 'read', 'readline', 'readlines', 'seek', 'softspace', 'tell', 'truncate', 'write', 'writelines']
+223.62.212.77 - - [17/Aug/2016 08:54:11] "POST /tweet HTTP/1.1" 303 0
+223.62.212.77 - - [17/Aug/2016 08:54:11] "GET /tweet HTTP/1.1" 200 21058
+INFO:root:['__doc__', '__init__', '__iter__', '__module__', 'buf', 'buflist', 'close', 'closed', 'flush', 'getvalue', 'isatty', 'len', 'next', 'pos', 'read', 'readline', 'readlines', 'seek', 'softspace', 'tell', 'truncate', 'write', 'writelines']
+223.62.212.77 - - [17/Aug/2016 08:54:11] "POST /tweet HTTP/1.1" 303 0
+223.62.212.77 - - [17/Aug/2016 08:54:12] "GET /tweet HTTP/1.1" 200 21405
+INFO:root:['__doc__', '__init__', '__iter__', '__module__', 'buf', 'buflist', 'close', 'closed', 'flush', 'getvalue', 'isatty', 'len', 'next', 'pos', 'read', 'readline', 'readlines', 'seek', 'softspace', 'tell', 'truncate', 'write', 'writelines']
+223.62.212.77 - - [17/Aug/2016 08:54:12] "POST /tweet HTTP/1.1" 303 0
+223.62.212.77 - - [17/Aug/2016 08:54:12] "GET /tweet HTTP/1.1" 200 21752
+INFO:root:['__doc__', '__init__', '__iter__', '__module__', 'buf', 'buflist', 'close', 'closed', 'flush', 'getvalue', 'isatty', 'len', 'next', 'pos', 'read', 'readline', 'readlines', 'seek', 'softspace', 'tell', 'truncate', 'write', 'writelines']
+223.62.212.77 - - [17/Aug/2016 08:54:12] "POST /tweet HTTP/1.1" 303 0
+223.62.212.77 - - [17/Aug/2016 08:54:12] "GET /tweet HTTP/1.1" 200 22099
+INFO:root:['__doc__', '__init__', '__iter__', '__module__', 'buf', 'buflist', 'close', 'closed', 'flush', 'getvalue', 'isatty', 'len', 'next', 'pos', 'read', 'readline', 'readlines', 'seek', 'softspace', 'tell', 'truncate', 'write', 'writelines']
+223.62.212.77 - - [17/Aug/2016 08:54:12] "POST /tweet HTTP/1.1" 303 0
+223.62.212.77 - - [17/Aug/2016 08:54:12] "GET /tweet HTTP/1.1" 200 22446
+INFO:root:['__doc__', '__init__', '__iter__', '__module__', 'buf', 'buflist', 'close', 'closed', 'flush', 'getvalue', 'isatty', 'len', 'next', 'pos', 'read', 'readline', 'readlines', 'seek', 'softspace', 'tell', 'truncate', 'write', 'writelines']
+223.62.212.77 - - [17/Aug/2016 08:54:12] "POST /tweet HTTP/1.1" 303 0
+223.62.212.77 - - [17/Aug/2016 08:54:12] "GET /tweet HTTP/1.1" 200 22793
+INFO:root:['__doc__', '__init__', '__iter__', '__module__', 'buf', 'buflist', 'close', 'closed', 'flush', 'getvalue', 'isatty', 'len', 'next', 'pos', 'read', 'readline', 'readlines', 'seek', 'softspace', 'tell', 'truncate', 'write', 'writelines']
+223.62.212.77 - - [17/Aug/2016 08:54:13] "POST /tweet HTTP/1.1" 303 0
+223.62.212.77 - - [17/Aug/2016 08:54:13] "GET /tweet HTTP/1.1" 200 23140
+INFO:root:['__doc__', '__init__', '__iter__', '__module__', 'buf', 'buflist', 'close', 'closed', 'flush', 'getvalue', 'isatty', 'len', 'next', 'pos', 'read', 'readline', 'readlines', 'seek', 'softspace', 'tell', 'truncate', 'write', 'writelines']
+223.62.212.77 - - [17/Aug/2016 08:54:13] "POST /tweet HTTP/1.1" 303 0
+223.62.212.77 - - [17/Aug/2016 08:54:13] "GET /tweet HTTP/1.1" 200 23487
+INFO:root:['__doc__', '__init__', '__iter__', '__module__', 'buf', 'buflist', 'close', 'closed', 'flush', 'getvalue', 'isatty', 'len', 'next', 'pos', 'read', 'readline', 'readlines', 'seek', 'softspace', 'tell', 'truncate', 'write', 'writelines']
+223.62.212.77 - - [17/Aug/2016 08:54:13] "POST /tweet HTTP/1.1" 303 0
+223.62.212.77 - - [17/Aug/2016 08:54:13] "GET /tweet HTTP/1.1" 200 23834
+INFO:root:['__doc__', '__init__', '__iter__', '__module__', 'buf', 'buflist', 'close', 'closed', 'flush', 'getvalue', 'isatty', 'len', 'next', 'pos', 'read', 'readline', 'readlines', 'seek', 'softspace', 'tell', 'truncate', 'write', 'writelines']
+223.62.212.77 - - [17/Aug/2016 08:54:13] "POST /tweet HTTP/1.1" 303 0
+223.62.212.77 - - [17/Aug/2016 08:54:13] "GET /tweet HTTP/1.1" 200 24181
+INFO:root:['__doc__', '__init__', '__iter__', '__module__', 'buf', 'buflist', 'close', 'closed', 'flush', 'getvalue', 'isatty', 'len', 'next', 'pos', 'read', 'readline', 'readlines', 'seek', 'softspace', 'tell', 'truncate', 'write', 'writelines']
+223.62.212.77 - - [17/Aug/2016 08:54:13] "POST /tweet HTTP/1.1" 303 0
+223.62.212.77 - - [17/Aug/2016 08:54:13] "GET /tweet HTTP/1.1" 200 24528
+INFO:root:['__doc__', '__init__', '__iter__', '__module__', 'buf', 'buflist', 'close', 'closed', 'flush', 'getvalue', 'isatty', 'len', 'next', 'pos', 'read', 'readline', 'readlines', 'seek', 'softspace', 'tell', 'truncate', 'write', 'writelines']
+223.62.212.77 - - [17/Aug/2016 08:54:13] "POST /tweet HTTP/1.1" 303 0
+223.62.212.77 - - [17/Aug/2016 08:54:14] "GET /tweet HTTP/1.1" 200 24875
+INFO:root:['__doc__', '__init__', '__iter__', '__module__', 'buf', 'buflist', 'close', 'closed', 'flush', 'getvalue', 'isatty', 'len', 'next', 'pos', 'read', 'readline', 'readlines', 'seek', 'softspace', 'tell', 'truncate', 'write', 'writelines']
+223.62.212.77 - - [17/Aug/2016 08:54:14] "POST /tweet HTTP/1.1" 303 0
+223.62.212.77 - - [17/Aug/2016 08:54:14] "GET /tweet HTTP/1.1" 200 25222
+INFO:root:['__doc__', '__init__', '__iter__', '__module__', 'buf', 'buflist', 'close', 'closed', 'flush', 'getvalue', 'isatty', 'len', 'next', 'pos', 'read', 'readline', 'readlines', 'seek', 'softspace', 'tell', 'truncate', 'write', 'writelines']
+223.62.212.77 - - [17/Aug/2016 08:54:14] "POST /tweet HTTP/1.1" 303 0
+223.62.212.77 - - [17/Aug/2016 08:54:14] "GET /tweet HTTP/1.1" 200 25569
+INFO:root:['__doc__', '__init__', '__iter__', '__module__', 'buf', 'buflist', 'close', 'closed', 'flush', 'getvalue', 'isatty', 'len', 'next', 'pos', 'read', 'readline', 'readlines', 'seek', 'softspace', 'tell', 'truncate', 'write', 'writelines']
+223.62.212.77 - - [17/Aug/2016 08:54:14] "POST /tweet HTTP/1.1" 303 0
+223.62.212.77 - - [17/Aug/2016 08:54:14] "GET /tweet HTTP/1.1" 200 25916
+INFO:root:['__doc__', '__init__', '__iter__', '__module__', 'buf', 'buflist', 'close', 'closed', 'flush', 'getvalue', 'isatty', 'len', 'next', 'pos', 'read', 'readline', 'readlines', 'seek', 'softspace', 'tell', 'truncate', 'write', 'writelines']
+223.62.212.77 - - [17/Aug/2016 08:54:14] "POST /tweet HTTP/1.1" 303 0
+223.62.212.77 - - [17/Aug/2016 08:54:15] "GET /tweet HTTP/1.1" 200 26263
+INFO:root:['__doc__', '__init__', '__iter__', '__module__', 'buf', 'buflist', 'close', 'closed', 'flush', 'getvalue', 'isatty', 'len', 'next', 'pos', 'read', 'readline', 'readlines', 'seek', 'softspace', 'tell', 'truncate', 'write', 'writelines']
+223.62.212.77 - - [17/Aug/2016 08:54:15] "POST /tweet HTTP/1.1" 303 0
+223.62.212.77 - - [17/Aug/2016 08:54:15] "GET /tweet HTTP/1.1" 200 26610
+95.213.177.126 - - [17/Aug/2016 11:04:38] "POST http://check.proxyradar.com/azenv.php?auth=147139950589&a=PSCMN&i=877537254&p=80 HTTP/1.1" 404 856
+95.213.177.123 - - [17/Aug/2016 15:43:28] "POST http://check.proxyradar.com/azenv.php?auth=147141623517&a=PSCMN&i=877537254&p=80 HTTP/1.1" 404 856
+218.92.147.79 - - [17/Aug/2016 19:01:52] "OPTIONS / HTTP/1.1" 405 731
+169.229.3.91 - - [17/Aug/2016 19:13:02] code 400, message Bad request syntax ('"\xdd\xa8\x9e\x898y\xfb\xa1\xcb\x8b\x07\xdd"Wa\x93e\x90o)/D\xff\xc8\xe1-h\t\xa65\xab\xbaQ=E\xc3\xcca].\xaf\x0b\x81\xb9\xd9Bh/\xc7\xe8%\xe7\x1d\xac\xe9\xc5\xcc3+\xe3 \x8a\xcc')
+169.229.3.91 - - [17/Aug/2016 19:13:02] ""›®ûâ8y˚°Àã›"Waìeêo)/Dˇ»·-h	¶5´∫Q=E√Ãa].ØÅπŸBh/«Ë%Á¨È≈Ã3+„ äÃ" 400 -
+121.42.139.20 - - [17/Aug/2016 20:25:33] "GET /manager/html HTTP/1.1" 404 745
+61.157.96.193 - - [17/Aug/2016 21:17:14] "GET http://50.117.47.67:43530/?rands=_22234044062119800488172 HTTP/1.1" 404 810
+61.157.96.193 - - [17/Aug/2016 21:17:16] "GET http://50.117.86.106/?rands=_1048565675027352022683392 HTTP/1.1" 404 795
+61.157.96.193 - - [17/Aug/2016 21:17:16] "GET http://123.249.29.201:43210/?rands=_3699233506650704664000 HTTP/1.1" 404 815
+124.63.227.124 - - [17/Aug/2016 22:45:54] "GET /tweet HTTP/1.1" 200 26610
+124.63.227.124 - - [17/Aug/2016 22:45:54] "GET /static/css/style.css HTTP/1.1" 304 0
+124.63.227.124 - - [17/Aug/2016 22:45:54] "GET /favicon.ico HTTP/1.1" 404 781
+INFO:root:['__doc__', '__init__', '__iter__', '__module__', 'buf', 'buflist', 'close', 'closed', 'flush', 'getvalue', 'isatty', 'len', 'next', 'pos', 'read', 'readline', 'readlines', 'seek', 'softspace', 'tell', 'truncate', 'write', 'writelines']
+124.63.227.124 - - [17/Aug/2016 22:45:58] "POST /tweet HTTP/1.1" 303 0
+124.63.227.124 - - [17/Aug/2016 22:45:58] "GET /tweet HTTP/1.1" 200 26966
+INFO:root:['__doc__', '__init__', '__iter__', '__module__', 'buf', 'buflist', 'close', 'closed', 'flush', 'getvalue', 'isatty', 'len', 'next', 'pos', 'read', 'readline', 'readlines', 'seek', 'softspace', 'tell', 'truncate', 'write', 'writelines']
+124.63.227.124 - - [17/Aug/2016 22:46:07] "POST /tweet HTTP/1.1" 303 0
+124.63.227.124 - - [17/Aug/2016 22:46:07] "GET /tweet HTTP/1.1" 200 27322
+INFO:root:['__doc__', '__init__', '__iter__', '__module__', 'buf', 'buflist', 'close', 'closed', 'flush', 'getvalue', 'isatty', 'len', 'next', 'pos', 'read', 'readline', 'readlines', 'seek', 'softspace', 'tell', 'truncate', 'write', 'writelines']
+124.63.227.124 - - [17/Aug/2016 22:46:08] "POST /tweet HTTP/1.1" 303 0
+124.63.227.124 - - [17/Aug/2016 22:46:08] "GET /tweet HTTP/1.1" 200 27678
+124.63.227.124 - - [17/Aug/2016 22:46:45] "GET /tweet HTTP/1.1" 200 27678
+124.63.227.124 - - [17/Aug/2016 22:46:45] "GET /tweet HTTP/1.1" 200 27678
+124.63.227.124 - - [17/Aug/2016 22:46:45] "GET /tweet HTTP/1.1" 200 27678
+124.63.227.124 - - [17/Aug/2016 22:46:45] "GET /static/css/bootstrap.css HTTP/1.1" 304 0
+124.63.227.124 - - [17/Aug/2016 22:46:45] "GET /static/css/font-awesome.css HTTP/1.1" 304 0
+124.63.227.124 - - [17/Aug/2016 22:46:45] "GET /static/js/bootstrap.js HTTP/1.1" 304 0
+124.63.227.124 - - [17/Aug/2016 22:46:45] "GET /static/css/style.css HTTP/1.1" 304 0
+124.63.227.124 - - [17/Aug/2016 22:46:45] "GET /static/js/jquery-1.11.1.js HTTP/1.1" 304 0
+124.63.227.124 - - [17/Aug/2016 22:46:45] "GET /static/fonts/fontawesome-webfont.woff?v=4.2.0 HTTP/1.1" 304 0
+66.249.80.50 - - [17/Aug/2016 22:50:52] "GET /tweet HTTP/1.1" 200 27678
+66.102.7.135 - - [17/Aug/2016 22:50:52] "GET /favicon.ico HTTP/1.1" 404 781
+173.242.121.38 - - [17/Aug/2016 23:50:56] "GET /script HTTP/1.1" 404 730
+61.157.96.193 - - [18/Aug/2016 03:16:16] "GET http://50.117.47.67:43530/?rands=_23682340002606613532496 HTTP/1.1" 404 810
+61.157.96.193 - - [18/Aug/2016 03:16:17] "GET http://50.117.86.106/?rands=_31889117223410078683091200 HTTP/1.1" 404 796
+61.157.96.193 - - [18/Aug/2016 03:16:17] "GET http://123.249.29.201:43210/?rands=_397062376026079936039576 HTTP/1.1" 404 817
+191.96.249.42 - - [18/Aug/2016 05:26:07] "GET /admin/config.php HTTP/1.0" 404 783
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 862, in _handle
+    return route.call(**args)
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 1732, in wrapper
+    rv = callback(*a, **ka)
+  File "/home/ubuntu/apps/dx_line/dx_line.py", line 39, in main
+    return template('main')
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 3609, in template
+    return TEMPLATES[tplid].render(kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 3399, in render
+    self.execute(stdout, env)
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 3386, in execute
+    eval(self.co, env)
+  File "/home/ubuntu/apps/dx_line/views/main.tpl", line 47, in <module>
+    %for tweet in tweets:
+NameError: name 'tweets' is not defined
+141.212.122.144 - - [18/Aug/2016 06:41:50] "GET / HTTP/1.1" 500 742
+61.157.96.193 - - [18/Aug/2016 08:51:21] "GET http://50.117.47.67:43530/?rands=_72801229488718620866340 HTTP/1.1" 404 810
+61.157.96.193 - - [18/Aug/2016 08:51:21] "GET http://50.117.86.106/?rands=_1573068629632820601417864 HTTP/1.1" 404 795
+61.157.96.193 - - [18/Aug/2016 08:51:22] "GET http://123.249.29.201:43210/?rands=_2278552008020820692165920 HTTP/1.1" 404 818
+95.213.177.124 - - [18/Aug/2016 10:35:49] "POST http://check.proxyradar.com/azenv.php?auth=147148417859&a=PSCMN&i=877537254&p=80 HTTP/1.1" 404 856
+180.97.106.161 - - [18/Aug/2016 13:38:10] "GET http://180.163.113.82/check_proxy HTTP/1.1" 404 787
+95.213.177.124 - - [18/Aug/2016 15:30:10] "POST http://check.proxyradar.com/azenv.php?auth=147150183931&a=PSCMN&i=877537254&p=80 HTTP/1.1" 404 856
+66.102.7.190 - - [18/Aug/2016 17:10:12] "GET /tweet HTTP/1.1" 200 27678
+66.102.7.131 - - [18/Aug/2016 17:10:12] "GET /favicon.ico HTTP/1.1" 404 781
+64.233.172.179 - - [18/Aug/2016 17:10:13] "GET /tweet HTTP/1.1" 200 27678
+64.233.172.179 - - [18/Aug/2016 17:10:13] "GET /static/js/bootstrap.js HTTP/1.1" 200 67155
+64.233.172.171 - - [18/Aug/2016 17:10:13] "GET /static/css/style.css HTTP/1.1" 200 3524
+64.233.172.187 - - [18/Aug/2016 17:10:14] "GET /static/css/bootstrap.css HTTP/1.1" 200 137067
+64.233.172.187 - - [18/Aug/2016 17:10:14] "GET /static/css/font-awesome.css HTTP/1.1" 200 26651
+64.233.172.179 - - [18/Aug/2016 17:10:14] "GET /static/js/jquery-1.11.1.js HTTP/1.1" 200 282766
+64.233.172.171 - - [18/Aug/2016 17:10:15] "GET /static/fonts/fontawesome-webfont.woff?v=4.2.0 HTTP/1.1" 200 65452
+169.229.3.91 - - [18/Aug/2016 17:36:26] code 400, message Bad request syntax ('v\xf0\xee\xd1\x89\x0f\x11.\xe0\xdd\xa3\xed#\x8c\xf4=\x15\x16R\x06\xd0\x16\xc5x\xe8\xae\xdd\xb3\xc1\x9b\xcf\x83\xfd\x01\xdao\xdf\xed\xa0\xb4j\x1f\xc4\xad~6\xbf:\xf1CX\x85\xbeQ\xd2\x8d\xc3\xb8\x9b\x92^\xddm9')
+169.229.3.91 - - [18/Aug/2016 17:36:26] "vÓ—â.‡›£Ì#åÙ=R–≈xËÆ›≥¡õœÉ˝⁄oﬂÌ†¥jƒ≠~6ø:ÒCXÖæQ“ç√∏õí^›m9" 400 -
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 862, in _handle
+    return route.call(**args)
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 1732, in wrapper
+    rv = callback(*a, **ka)
+  File "/home/ubuntu/apps/dx_line/dx_line.py", line 39, in main
+    return template('main')
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 3609, in template
+    return TEMPLATES[tplid].render(kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 3399, in render
+    self.execute(stdout, env)
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 3386, in execute
+    eval(self.co, env)
+  File "/home/ubuntu/apps/dx_line/views/main.tpl", line 47, in <module>
+    %for tweet in tweets:
+NameError: name 'tweets' is not defined
+104.128.144.131 - - [18/Aug/2016 19:49:27] "GET / HTTP/1.0" 500 739
+104.128.144.131 - - [18/Aug/2016 19:49:27] "HEAD /redirect.php HTTP/1.0" 404 0
+95.213.177.123 - - [18/Aug/2016 21:01:27] "POST http://check.proxyradar.com/azenv.php?auth=147152171629&a=PSCMN&i=877537254&p=80 HTTP/1.1" 404 856
+180.97.106.37 - - [18/Aug/2016 22:05:06] code 400, message Bad request syntax ('\x04\x01\x00P\xb4\xa3qR\x00')
+180.97.106.37 - - [18/Aug/2016 22:05:06] " P¥£qR " 400 -
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 862, in _handle
+    return route.call(**args)
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 1732, in wrapper
+    rv = callback(*a, **ka)
+  File "/home/ubuntu/apps/dx_line/dx_line.py", line 39, in main
+    return template('main')
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 3609, in template
+    return TEMPLATES[tplid].render(kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 3399, in render
+    self.execute(stdout, env)
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 3386, in execute
+    eval(self.co, env)
+  File "/home/ubuntu/apps/dx_line/views/main.tpl", line 47, in <module>
+    %for tweet in tweets:
+NameError: name 'tweets' is not defined
+5.39.222.139 - - [18/Aug/2016 22:30:03] "GET / HTTP/1.1" 500 739
+66.102.7.135 - - [18/Aug/2016 23:08:49] "GET /favicon.ico HTTP/1.1" 404 781
+180.97.106.37 - - [19/Aug/2016 00:41:27] code 400, message Bad request syntax ('\x05\x02\x00\x02')
+180.97.106.37 - - [19/Aug/2016 00:41:27] " " 400 -
+95.213.177.123 - - [19/Aug/2016 01:58:33] "POST http://check.proxyradar.com/azenv.php?auth=147153954375&a=PSCMN&i=877537254&p=80 HTTP/1.1" 404 856
+195.154.102.122 - - [19/Aug/2016 04:23:24] "GET /admin/config.php HTTP/1.1" 404 750
+139.162.13.205 - - [19/Aug/2016 05:21:24] code 400, message Bad request syntax ('\x00\x9c\x00\x01\x1a+<M\x00\x01\x00\x00\x01\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00')
+139.162.13.205 - - [19/Aug/2016 05:21:24] " ú +<M              " 400 -
+95.213.177.124 - - [19/Aug/2016 07:28:51] "POST http://check.proxyradar.com/azenv.php?auth=147155936181&a=PSCMN&i=877537254&p=80 HTTP/1.1" 404 856
+111.74.239.61 - - [19/Aug/2016 12:23:46] "GET /manager/html HTTP/1.1" 404 745
+95.213.177.124 - - [19/Aug/2016 12:24:11] "POST http://check.proxyradar.com/azenv.php?auth=147157708273&a=PSCMN&i=877537254&p=80 HTTP/1.1" 404 856
+95.213.177.124 - - [19/Aug/2016 17:34:35] "POST http://check.proxyradar.com/azenv.php?auth=147159570691&a=PSCMN&i=877537254&p=80 HTTP/1.1" 404 856
+95.213.177.125 - - [19/Aug/2016 22:29:00] "POST http://check.proxyradar.com/azenv.php?auth=147161337133&a=PSCMN&i=877537254&p=80 HTTP/1.1" 404 856
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 862, in _handle
+    return route.call(**args)
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 1732, in wrapper
+    rv = callback(*a, **ka)
+  File "/home/ubuntu/apps/dx_line/dx_line.py", line 39, in main
+    return template('main')
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 3609, in template
+    return TEMPLATES[tplid].render(kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 3399, in render
+    self.execute(stdout, env)
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 3386, in execute
+    eval(self.co, env)
+  File "/home/ubuntu/apps/dx_line/views/main.tpl", line 47, in <module>
+    %for tweet in tweets:
+NameError: name 'tweets' is not defined
+37.72.41.38 - - [19/Aug/2016 22:46:24] "GET / HTTP/1.1" 500 739
+66.249.84.223 - - [19/Aug/2016 23:17:02] "GET /tweet HTTP/1.1" 200 27678
+66.249.84.219 - - [19/Aug/2016 23:17:03] "GET /favicon.ico HTTP/1.1" 404 781
+95.213.177.124 - - [20/Aug/2016 03:20:39] "POST http://check.proxyradar.com/azenv.php?auth=147163087037&a=PSCMN&i=877537254&p=80 HTTP/1.1" 404 856
+189.218.28.120 - - [20/Aug/2016 05:12:29] "GET /hndUnblock.cgi HTTP/1.0" 404 746
+189.218.28.120 - - [20/Aug/2016 05:12:29] "GET /tmUnblock.cgi HTTP/1.0" 404 744
+189.218.28.120 - - [20/Aug/2016 05:12:30] "GET /cgi/common.cgi HTTP/1.0" 404 746
+189.218.28.120 - - [20/Aug/2016 05:12:30] "GET /stssys.htm HTTP/1.0" 404 738
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 862, in _handle
+    return route.call(**args)
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 1732, in wrapper
+    rv = callback(*a, **ka)
+  File "/home/ubuntu/apps/dx_line/dx_line.py", line 39, in main
+    return template('main')
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 3609, in template
+    return TEMPLATES[tplid].render(kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 3399, in render
+    self.execute(stdout, env)
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 3386, in execute
+    eval(self.co, env)
+  File "/home/ubuntu/apps/dx_line/views/main.tpl", line 47, in <module>
+    %for tweet in tweets:
+NameError: name 'tweets' is not defined
+189.218.28.120 - - [20/Aug/2016 05:12:31] "GET / HTTP/1.0" 500 739
+189.218.28.120 - - [20/Aug/2016 05:12:31] "POST /command.php HTTP/1.0" 404 740
+95.213.177.125 - - [20/Aug/2016 08:31:14] "POST http://check.proxyradar.com/azenv.php?auth=147164950667&a=PSCMN&i=877537254&p=80 HTTP/1.1" 404 856
+95.213.177.124 - - [20/Aug/2016 13:54:07] "POST http://check.proxyradar.com/azenv.php?auth=147166888089&a=PSCMN&i=877537254&p=80 HTTP/1.1" 404 856
+183.129.160.229 - - [20/Aug/2016 14:55:15] code 400, message Bad request syntax ('test')
+183.129.160.229 - - [20/Aug/2016 14:55:15] "test" 400 -
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 862, in _handle
+    return route.call(**args)
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 1732, in wrapper
+    rv = callback(*a, **ka)
+  File "/home/ubuntu/apps/dx_line/dx_line.py", line 39, in main
+    return template('main')
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 3609, in template
+    return TEMPLATES[tplid].render(kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 3399, in render
+    self.execute(stdout, env)
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 3386, in execute
+    eval(self.co, env)
+  File "/home/ubuntu/apps/dx_line/views/main.tpl", line 47, in <module>
+    %for tweet in tweets:
+NameError: name 'tweets' is not defined
+183.129.160.229 - - [20/Aug/2016 14:55:15] "GET / HTTP/1.1" 500 739
+66.102.7.131 - - [20/Aug/2016 18:49:06] "GET /tweet HTTP/1.1" 200 27678
+66.102.7.190 - - [20/Aug/2016 18:49:07] "GET /favicon.ico HTTP/1.1" 404 781
+95.213.177.124 - - [20/Aug/2016 18:51:49] "POST http://check.proxyradar.com/azenv.php?auth=147168674283&a=PSCMN&i=877537254&p=80 HTTP/1.1" 404 856
+180.97.239.9 - - [20/Aug/2016 21:03:22] "GET /manager/html HTTP/1.1" 404 745
+95.213.177.123 - - [21/Aug/2016 00:10:36] "POST http://check.proxyradar.com/azenv.php?auth=147170586971&a=PSCMN&i=877537254&p=80 HTTP/1.1" 404 856
+124.63.227.124 - - [21/Aug/2016 00:14:07] "GET /tweet HTTP/1.1" 200 27678
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 862, in _handle
+    return route.call(**args)
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 1732, in wrapper
+    rv = callback(*a, **ka)
+  File "/home/ubuntu/apps/dx_line/dx_line.py", line 39, in main
+    return template('main')
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 3609, in template
+    return TEMPLATES[tplid].render(kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 3399, in render
+    self.execute(stdout, env)
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 3386, in execute
+    eval(self.co, env)
+  File "/home/ubuntu/apps/dx_line/views/main.tpl", line 47, in <module>
+    %for tweet in tweets:
+NameError: name 'tweets' is not defined
+124.63.227.124 - - [21/Aug/2016 00:14:07] "GET / HTTP/1.1" 500 780
+124.63.227.124 - - [21/Aug/2016 00:14:07] "GET /static/css/style.css HTTP/1.1" 304 0
+124.63.227.124 - - [21/Aug/2016 00:14:08] "GET /favicon.ico HTTP/1.1" 404 781
+61.157.96.193 - - [21/Aug/2016 00:23:52] "GET http://123.249.29.201:43210/?rands=_1415779188038002801591480 HTTP/1.1" 404 818
+61.157.96.193 - - [21/Aug/2016 00:23:54] "GET http://50.117.86.106/?rands=_524031718422237384774392 HTTP/1.1" 404 794
+61.157.96.193 - - [21/Aug/2016 00:23:55] "GET http://50.117.47.67:43530/?rands=_564101087623413262415204 HTTP/1.1" 404 811
+207.46.230.40 - - [21/Aug/2016 01:04:31] "GET /manager/html HTTP/1.1" 404 745
+191.96.249.18 - - [21/Aug/2016 02:06:33] "GET /zabbix HTTP/1.1" 404 730
+95.213.177.124 - - [21/Aug/2016 05:11:04] "POST http://check.proxyradar.com/azenv.php?auth=147172389881&a=PSCMN&i=877537254&p=80 HTTP/1.1" 404 856
+61.157.96.193 - - [21/Aug/2016 05:12:32] "GET http://50.117.47.67:43530/?rands=_10128111936093267004166600 HTTP/1.1" 404 813
+61.157.96.193 - - [21/Aug/2016 05:12:32] "GET http://50.117.86.106/?rands=_29602827503170205659832 HTTP/1.1" 404 793
+61.157.96.193 - - [21/Aug/2016 05:12:36] "GET http://123.249.29.201:43210/?rands=_808825153445472817410240 HTTP/1.1" 404 817
+173.227.0.76 - - [21/Aug/2016 07:50:51] "GET /cgi-bin/test-cgi HTTP/1.1" 404 750
+95.213.177.125 - - [21/Aug/2016 10:27:27] "POST http://check.proxyradar.com/azenv.php?auth=147174288165&a=PSCMN&i=877537254&p=80 HTTP/1.1" 404 856
+95.213.177.125 - - [21/Aug/2016 15:25:04] "POST http://check.proxyradar.com/azenv.php?auth=147176073867&a=PSCMN&i=877537254&p=80 HTTP/1.1" 404 856
+66.249.84.223 - - [21/Aug/2016 15:33:52] "GET /tweet HTTP/1.1" 200 27678
+66.249.84.215 - - [21/Aug/2016 15:33:53] "GET /favicon.ico HTTP/1.1" 404 781
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 862, in _handle
+    return route.call(**args)
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 1732, in wrapper
+    rv = callback(*a, **ka)
+  File "/home/ubuntu/apps/dx_line/dx_line.py", line 39, in main
+    return template('main')
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 3609, in template
+    return TEMPLATES[tplid].render(kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 3399, in render
+    self.execute(stdout, env)
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 3386, in execute
+    eval(self.co, env)
+  File "/home/ubuntu/apps/dx_line/views/main.tpl", line 47, in <module>
+    %for tweet in tweets:
+NameError: name 'tweets' is not defined
+202.100.78.130 - - [21/Aug/2016 18:06:57] "HEAD / HTTP/1.0" 500 0
+169.229.3.91 - - [21/Aug/2016 18:16:45] code 400, message Bad request syntax ('y{\xc8\xafw(\xdaW>n\xa5\xfe\x86\x847P/\xd4\xf9\x96\x81]\xa16\xab+\x08\x08\xf5\x1f\xe1\xa7\xf6\x90_\xf3I\x93\xae\xb6\x0e\xf6\xf3\x8d\xe7\x82\xe25>\x9a\xe5!\x00\xc2\xcc\xcd-\x14(\x94\xf1\\\xeb\xab')
+169.229.3.91 - - [21/Aug/2016 18:16:45] "y{»Øw(⁄W>n•˛ÜÑ7P/‘˘ñÅ]°6´+ı·ßˆê_ÛIìÆ∂ˆÛçÁÇ‚5>öÂ! ¬ÃÕ-(îÒ\Î´" 400 -
+95.213.177.123 - - [21/Aug/2016 20:40:59] "POST http://check.proxyradar.com/azenv.php?auth=147177969431&a=PSCMN&i=877537254&p=80 HTTP/1.1" 404 856
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/SocketServer.py", line 295, in _handle_request_noblock
+    self.process_request(request, client_address)
+  File "/usr/lib/python2.7/SocketServer.py", line 321, in process_request
+    self.finish_request(request, client_address)
+  File "/usr/lib/python2.7/SocketServer.py", line 334, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python2.7/SocketServer.py", line 649, in __init__
+    self.handle()
+  File "/usr/lib/python2.7/wsgiref/simple_server.py", line 116, in handle
+    self.raw_requestline = self.rfile.readline()
+  File "/usr/lib/python2.7/socket.py", line 447, in readline
+    data = self._sock.recv(self._rbufsize)
+error: [Errno 104] Connection reset by peer
+61.157.96.193 - - [21/Aug/2016 23:17:39] "GET http://50.117.47.67:43530/?rands=_397068613632145037940924 HTTP/1.1" 404 811
+61.157.96.193 - - [21/Aug/2016 23:17:41] "GET http://50.117.86.106/?rands=_152102633286282843025652 HTTP/1.1" 404 794
+61.157.96.193 - - [21/Aug/2016 23:17:41] "GET http://123.249.29.201:43210/?rands=_495911544488730152363172 HTTP/1.1" 404 817
+95.213.177.124 - - [22/Aug/2016 03:30:00] "POST http://check.proxyradar.com/azenv.php?auth=147180423523&a=PSCMN&i=877537254&p=80 HTTP/1.1" 404 856
+176.58.92.217 - - [22/Aug/2016 05:34:55] "GET /admin/config.php HTTP/1.1" 404 750
+141.212.122.16 - - [22/Aug/2016 06:30:21] "GET /x HTTP/1.1" 404 753
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 862, in _handle
+    return route.call(**args)
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 1732, in wrapper
+    rv = callback(*a, **ka)
+  File "/home/ubuntu/apps/dx_line/dx_line.py", line 39, in main
+    return template('main')
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 3609, in template
+    return TEMPLATES[tplid].render(kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 3399, in render
+    self.execute(stdout, env)
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 3386, in execute
+    eval(self.co, env)
+  File "/home/ubuntu/apps/dx_line/views/main.tpl", line 47, in <module>
+    %for tweet in tweets:
+NameError: name 'tweets' is not defined
+141.212.122.80 - - [22/Aug/2016 07:55:06] "GET / HTTP/1.1" 500 742
+95.213.177.124 - - [22/Aug/2016 08:31:40] "POST http://check.proxyradar.com/azenv.php?auth=147182233633&a=PSCMN&i=877537254&p=80 HTTP/1.1" 404 856
+66.111.57.50 - - [22/Aug/2016 09:43:50] "GET /phpMyAdmin/scripts/setup.php HTTP/1.0" 404 807
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 862, in _handle
+    return route.call(**args)
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 1732, in wrapper
+    rv = callback(*a, **ka)
+  File "/home/ubuntu/apps/dx_line/dx_line.py", line 39, in main
+    return template('main')
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 3609, in template
+    return TEMPLATES[tplid].render(kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 3399, in render
+    self.execute(stdout, env)
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 3386, in execute
+    eval(self.co, env)
+  File "/home/ubuntu/apps/dx_line/views/main.tpl", line 47, in <module>
+    %for tweet in tweets:
+NameError: name 'tweets' is not defined
+66.240.219.146 - - [22/Aug/2016 12:13:13] "GET / HTTP/1.1" 500 739
+66.240.219.146 - - [22/Aug/2016 12:13:14] "GET /robots.txt HTTP/1.1" 404 738
+66.240.219.146 - - [22/Aug/2016 12:13:14] "GET /sitemap.xml HTTP/1.1" 404 740
+95.213.177.124 - - [22/Aug/2016 13:38:02] "POST http://check.proxyradar.com/azenv.php?auth=147184071849&a=PSCMN&i=877537254&p=80 HTTP/1.1" 404 856
+61.157.96.193 - - [22/Aug/2016 14:25:26] "GET http://50.117.47.67:43530/?rands=_20722047502465715544072 HTTP/1.1" 404 810
+61.157.96.193 - - [22/Aug/2016 14:25:28] "GET http://123.249.29.201:43210/?rands=_837048669416080123488508 HTTP/1.1" 404 817
+61.157.96.193 - - [22/Aug/2016 14:25:28] "GET http://50.117.86.106/?rands=_106471721763831002037684 HTTP/1.1" 404 794
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/SocketServer.py", line 295, in _handle_request_noblock
+    self.process_request(request, client_address)
+  File "/usr/lib/python2.7/SocketServer.py", line 321, in process_request
+    self.finish_request(request, client_address)
+  File "/usr/lib/python2.7/SocketServer.py", line 334, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python2.7/SocketServer.py", line 649, in __init__
+    self.handle()
+  File "/usr/lib/python2.7/wsgiref/simple_server.py", line 116, in handle
+    self.raw_requestline = self.rfile.readline()
+  File "/usr/lib/python2.7/socket.py", line 447, in readline
+    data = self._sock.recv(self._rbufsize)
+error: [Errno 104] Connection reset by peer
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 862, in _handle
+    return route.call(**args)
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 1732, in wrapper
+    rv = callback(*a, **ka)
+  File "/home/ubuntu/apps/dx_line/dx_line.py", line 39, in main
+    return template('main')
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 3609, in template
+    return TEMPLATES[tplid].render(kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 3399, in render
+    self.execute(stdout, env)
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 3386, in execute
+    eval(self.co, env)
+  File "/home/ubuntu/apps/dx_line/views/main.tpl", line 47, in <module>
+    %for tweet in tweets:
+NameError: name 'tweets' is not defined
+61.240.144.64 - - [22/Aug/2016 15:52:10] "GET / HTTP/1.0" 500 772
+95.213.177.125 - - [22/Aug/2016 18:26:46] "POST http://check.proxyradar.com/azenv.php?auth=147185804263&a=PSCMN&i=877537254&p=80 HTTP/1.1" 404 856
+169.229.3.91 - - [22/Aug/2016 19:59:29] code 400, message Bad HTTP/0.9 request type ('\x17\xd0\xbd1\xe8/B\xce\xa0{c.\x11\x1b\xab\x95\xd4\xfd\xd3d\x9e')
+169.229.3.91 - - [22/Aug/2016 19:59:29] "–Ω1Ë/BŒ†{c.´ï‘˝”dûúxÎ:îB¸˝¶ô¬ˇ7∏g>[ıyÀ¯>]≤$M$í°√˚ˇ‚±ÒùI=è" 400 -
+66.102.7.135 - - [22/Aug/2016 20:26:50] "GET /tweet HTTP/1.1" 200 27678
+66.102.7.190 - - [22/Aug/2016 20:26:51] "GET /favicon.ico HTTP/1.1" 404 781
+66.111.57.50 - - [22/Aug/2016 21:51:32] "GET /myadmin/scripts/setup.php HTTP/1.0" 404 801
+207.46.230.40 - - [22/Aug/2016 23:03:44] "GET /manager/html HTTP/1.1" 404 745
+95.213.177.123 - - [22/Aug/2016 23:39:56] "POST http://check.proxyradar.com/azenv.php?auth=147187683301&a=PSCMN&i=877537254&p=80 HTTP/1.1" 404 856
+220.202.123.178 - - [23/Aug/2016 06:55:22] "GET HTTP/1.1 HTTP/1.1" 404 733
+220.202.123.178 - - [23/Aug/2016 06:55:22] "GET /admin/config.php HTTP/1.1" 404 750
+220.202.123.178 - - [23/Aug/2016 06:55:42] "GET HTTP/1.1 HTTP/1.1" 404 733
+220.202.123.178 - - [23/Aug/2016 06:55:42] "GET /admin/config.php HTTP/1.1" 404 750
+95.213.177.125 - - [23/Aug/2016 09:13:30] "POST http://check.proxyradar.com/azenv.php?auth=147191124743&a=PSCMN&i=877537254&p=80 HTTP/1.1" 404 856
+66.111.57.50 - - [23/Aug/2016 09:47:38] "GET /pma/scripts/setup.php HTTP/1.0" 404 793
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/SocketServer.py", line 295, in _handle_request_noblock
+    self.process_request(request, client_address)
+  File "/usr/lib/python2.7/SocketServer.py", line 321, in process_request
+    self.finish_request(request, client_address)
+  File "/usr/lib/python2.7/SocketServer.py", line 334, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python2.7/SocketServer.py", line 649, in __init__
+    self.handle()
+  File "/usr/lib/python2.7/wsgiref/simple_server.py", line 116, in handle
+    self.raw_requestline = self.rfile.readline()
+  File "/usr/lib/python2.7/socket.py", line 447, in readline
+    data = self._sock.recv(self._rbufsize)
+error: [Errno 104] Connection reset by peer
+192.92.1.3 - - [23/Aug/2016 10:08:07] "GET http://www.e-cotton.jp/env.cgi HTTP/1.1" 404 782
+61.157.96.193 - - [23/Aug/2016 12:19:30] "GET http://50.117.86.106/?rands=_317647821620621344809292 HTTP/1.1" 404 794
+61.157.96.193 - - [23/Aug/2016 12:19:34] "GET http://123.249.29.201:43210/?rands=_11120330066427805234244 HTTP/1.1" 404 816
+61.157.96.193 - - [23/Aug/2016 12:19:35] "GET http://50.117.47.67:43530/?rands=_121682329445210162655164 HTTP/1.1" 404 811
+58.221.46.206 - - [23/Aug/2016 14:43:48] "GET /phpMyAdmin HTTP/1.1" 404 738
+95.213.177.126 - - [23/Aug/2016 15:11:38] "POST http://check.proxyradar.com/azenv.php?auth=147193273675&a=PSCMN&i=877537254&p=80 HTTP/1.1" 404 856
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 862, in _handle
+    return route.call(**args)
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 1732, in wrapper
+    rv = callback(*a, **ka)
+  File "/home/ubuntu/apps/dx_line/dx_line.py", line 39, in main
+    return template('main')
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 3609, in template
+    return TEMPLATES[tplid].render(kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 3399, in render
+    self.execute(stdout, env)
+  File "/usr/local/lib/python2.7/dist-packages/bottle.py", line 3386, in execute
+    eval(self.co, env)
+  File "/home/ubuntu/apps/dx_line/views/main.tpl", line 47, in <module>
+    %for tweet in tweets:
+NameError: name 'tweets' is not defined
+101.78.231.141 - - [23/Aug/2016 17:54:46] "GET / HTTP/1.1" 500 739
+66.249.84.35 - - [23/Aug/2016 19:07:21] "GET /tweet HTTP/1.1" 200 27678
+66.249.84.31 - - [23/Aug/2016 19:07:21] "GET /favicon.ico HTTP/1.1" 404 781
+124.63.227.124 - - [23/Aug/2016 20:47:28] "GET /tweet HTTP/1.1" 200 27678
+124.63.227.124 - - [23/Aug/2016 20:47:29] "GET /static/css/style.css HTTP/1.1" 304 0
+124.63.227.124 - - [23/Aug/2016 20:47:29] "GET /static/fonts/fontawesome-webfont.woff?v=4.2.0 HTTP/1.1" 200 65452
+124.63.227.124 - - [23/Aug/2016 20:47:29] "GET /favicon.ico HTTP/1.1" 404 781

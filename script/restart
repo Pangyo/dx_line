@@ -1,0 +1,24 @@
+#!/bin/bash
+
+HOME=/home/ubuntu/apps/dx_line
+
+check_process() {
+    echo 'check_process'
+    list=$(ps ax | grep 'python' | grep 'dx_line.py')
+
+    if [[ ${#list} -gt 0 ]]; then
+        for i in $(echo $list | tr " " "\n")
+        do
+            echo "kill process $i..";
+            kill $i;
+            break;
+        done
+    fi
+    
+}
+
+check_process
+
+
+nohup python $HOME/dx_line.py &
+
